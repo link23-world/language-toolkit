@@ -1,4 +1,19 @@
-                                 Apache License
+# LICENSE
+
+link23 makes all of their materials publicly available under open source licenses.
+
+Software are made available under an [Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0).
+All other content is made available under a [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
+Both licenses are permissive which means you can adapt and redistribute all code and other content however you like for free, as long as you cite this repository and make clear if you have modified the original code.
+
+We recommend reading [The Turing Way licensing chapter](https://the-turing-way.netlify.app/reproducible-research/licensing.html) to learn more about licensing.
+
+## Software
+
+Below is a copy of the Apache 2.0 licence.
+
+
+                                Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
 
@@ -173,29 +188,25 @@
       incurred by, or claims asserted against, such Contributor by reason
       of your accepting any such warranty or additional liability.
 
-   END OF TERMS AND CONDITIONS
 
-   APPENDIX: How to apply the Apache License to your work.
+## All other content
 
-      To apply the Apache License to your work, attach the following
-      boilerplate notice, with the fields enclosed by brackets "[]"
-      replaced with your own identifying information. (Don't include
-      the brackets!)  The text should be enclosed in the appropriate
-      comment syntax for the file format. We also recommend that a
-      file or class name and description of purpose be included on the
-      same "printed page" as the copyright notice for easier
-      identification within third-party archives.
+All other content in this repository is made available under the Creative Commons Attribution license. The following is a human-readable summary of (and not a substitute for) the [full legal text of the CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/legalcode).
 
-   Copyright [yyyy] [name of copyright owner]
+> You are free to:
+>
+>    Share — copy and redistribute the material in any medium or format for any purpose, even commercially.
+>    Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+>    The licensor cannot revoke these freedoms as long as you follow the license terms.
+>
+> Under the following terms:
+>
+>    Attribution - You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+>    No additional restrictions - You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+>
+> Notices:
+>
+> You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation .
+>
+> No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
 
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
