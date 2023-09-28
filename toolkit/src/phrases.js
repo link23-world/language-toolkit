@@ -330,6 +330,17 @@ return [{
     "resources": [""]
   },
   {
+    "name": ["Fairness"],
+    "status": ["grey"],
+    "definition": [""],
+    "related": [""],
+    "why_we_care": [""],
+    "alternatives": [""],
+    "context": [""],
+    "debate": [""],
+    "resources": [""]
+  },
+  {
     "name": ["Gender"],
     "status": ["grey"],
     "definition": [""],
