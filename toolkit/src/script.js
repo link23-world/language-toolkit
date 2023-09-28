@@ -12,7 +12,7 @@ d3.select("#toolkitTable").select("tbody")
 
 var table = new Tabulator("#toolkitTable", {
   data: phrases,
-  maxHeight: "40vh",
+  maxHeight: "43vh",
   layout: "fitDataStretch",
   headerFilter:"input",
   columns: [
