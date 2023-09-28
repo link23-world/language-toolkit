@@ -10,6 +10,10 @@ We will not merge any pull requests from users that are not in our Slack.
 We expect all contributors to adhere to our Code of Conduct, please ensure you have read this.
 Violations will result in temporary or permanent bans.
 
+## Support
+
+If you need support in using GitHub, contributing to this repository, or anything else related to link23, please do not hesitate to reach out to one of our community mentors or leads on Slack, you can identify us with the "🧑‍🏫" and "👋" emojis next to our names.
+
 ## Recognising Contributions
 
 Please feel free to add yourself as a contributor for any contributions you make to this repository, we use the all-contributors bot, you can find the [instructions here](https://allcontributors.org/docs/en/bot/usage).
