@@ -1,0 +1,21 @@
+name: 'Ethnic Minority and Minorities'
+status: 'amber'
+definition:
+  'Ethnic minority is a collective term used to refer to individuals from ethnicities that have a relative lower frequency in the population being referred to.'
+related:
+  - 'BAME'
+  - 'Non-White'
+why_we_care:
+  'This umbrella term should ideally be avoided and where possible, specific ethnic groups should be described.'
+alternatives:
+  - "As much as possible provide an exhaustive list of specific ethnicities or if this is not practical (for example due to the length of the list), you might want to consider using collective terms that acknowledge these communities' positions of power (or lack thereof) in society such as underserved communities or minoritised Communities."
+context:
+  ''
+debate:
+  "Like all collective terms, Ethnic Minority lacks specificity and in doing so can unhelpfully group vastly different group into a seemingly similar category (see 'BAME'). Some people prefer the plural (*Ethnic Minorities*) to signify the many ethnicities describe rather than a single 'Other' group. This term can be confusing as it captures the *relative* population frequency in a defined geography and usually users of the term do not specify these parameters when it is used.
+
+
+  Ethnic Minority was however recently identified as the least unpopular collective term by the Race & Health Observatory, however the acceptance of Ethnic Minority varied by ethnic group. For example, 51.9% of White Other respondents to their survey were comfortable with the term 'ethnic minority' compared to 20.9% of Black Other respondents. In general, Black and Arab respondents tended to be less comfortable with the term 'ethnic minority'."
+resources:
+  - "[Writing about ethnicity](https://www.ethnicity-facts-figures.service.gov.uk/style-guide/writing-about-ethnicity)"
+  - "[NHS Race & Health Observatory Terminology Consultation Report](https://www.nhsrho.org/publications/nhs-race-health-observatory-terminology-consultation-report/)"

@@ -1,0 +1,23 @@
+name: 'Superpopulations'
+status: 'amber'
+definition:
+  'The term superpopulation is only used in a statistical context was introduced by the HapMap project, and reflected the concept that principal component analysis of the genetic variation data collected results in clusters corresponding to geographical groups at a continental/sub-continental level. The clustering into superpopulations reflects, to a certain extent, the sampling strategy used. The superpopulations are often used as reference groups for Global ancestry.
+
+
+  At Genomics England, we currently use five super populations for ancestry analysis: African, East Asian, South Asian, European and American.'
+related:
+  - 'Ancestry'
+  - 'Trans-Ancestry and Trans-Ethnicity'
+why_we_care:
+  'The use of super populations can be relatively arbitrary and may not make sense on a social level. For example, in 1000G the European Americans from Utah cluster with Europeans rather than other samples from the American continent or indeed other samples from USA. This makes sense given the recent continental ancestry, but does not make sense on a social level.
+
+
+  It is important to make sure that we are aware that the current groupings we use can be problematic, because they do not always make sense on either a scientific or societal basis.'
+alternatives:
+  - 'Be very clear when you are referring to genomic or statistical constructs. This term is never to be used in a social context, as it could be wrongly inferred that there is a hierarchy of populations.'
+context:
+  'In an everyday context Although it is unusual to use this term superpopulation in an everyday context, this term and related ones like superpower and super race could be problematic that they imply that some populations are more superior than others.'
+debate:
+  'Super populations make ancestry groupings easier to analyse. However, sometimes the terms related to them are problematic. Global, or continental, ancestry categories are imbalanced groupings that have no basis in population genetic theory. While some categories (e.g., European) may be more genetically homogeneous than others, there is still diversity within that category that is not represented. On the other end of the spectrum, nearly all global human genomic diversity is a subset of the diversity across the continent of Africa, where modern human populations have been evolving the longest. It is scientifically inaccurate to use these broad categories (historically rooted in racial hierarchies) as a means of accounting for genomic background, or population structure.'
+resources:
+  - ''

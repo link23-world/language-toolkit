@@ -1,0 +1,17 @@
+name: 'Non-White'
+status: 'red'
+definition:
+  'Non-white is an umbrella term that describes anyone who has been societally racialised as "other" than white. It is historically used by people in opposition to whiteness and is not recommended for use.'
+related:
+  - 'BIPOC'
+  - 'BAME'
+why_we_care:
+  'We strive to be as precise as possible and use the specific ancestry if possible, instead of umbrella terms for minorities.'
+alternatives:
+  - 'Marginalised or historically marginalised communities - if appropriate.'
+context:
+  'In an everyday context, umbrella terms are ways of empowerment and solidarity for racialised people. Non-white can have important meanings of solidarity and resistance outside of a research context. However, these terms change quickly and not every racialised person feels included in such broad terms'
+debate:
+  'NHS language surveys and Genomics England Maslansky surveys have shown that patients and participants often prefer specific identity labels instead of umbrella terms such as non-white, BAME, BME, BIPOC, people of colour, global majority etc. At Genomics England, we encourage the use of precise categories and labels.'
+resources:
+  - '[Writing about ethnicity](https://www.ethnicity-facts-figures.service.gov.uk/style-guide/writing-about-ethnicity) by the UK Government (2021)'

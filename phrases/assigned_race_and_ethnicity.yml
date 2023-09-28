@@ -1,0 +1,22 @@
+name: 'Assigned Race and Ethnicity'
+status: 'amber'
+definition:
+  "A person defines their own race and ancestry, as they are incredibly personal identifiers. However, sometimes race and ethnicity is (mis)assigned to a person in a clinical context.  A GP, researcher, clinical coder and others can assign a patient's race and ethnicity based on their perception and understanding of the patient. You cannot assign someone an ancestry; it is inferred through genomic information. People often confuse assigned ancestry with assigned race and ethnicity. This term is similar to 'Self-reported race and ethnicity', but is dependant on who is labelling who."
+related:
+  - 'Self-Reported Race and Ethnicity'
+  - 'Self-Reported Ancestry'
+  - 'Ancestry'
+  - 'Ethnicity'
+why_we_care:
+  'At Genomics England, race and ethnicity are assigned to participants since not all individuals fit neatly into categories. Importantly, race and ethnicity are different from ancestry which cannot be assigned. Ancestry is inferred. Race and ethnicity can be guessed, although these categories are constantly changing. Importantly, ancestry cannot be guessed, assumed or assigned. Often, Assigned Race and Ethnicity gets confused with Assigned Ancestry, which is a rigid scientific process for assigning the ancestral and continental groups of a person.'
+alternatives:
+  - "If the person's race or ethnicity was assumed by someone else, it is **assigned**."
+  - "If the person is describing their race or ethnicity, it is self **reported**."
+  - "If you are referring to ancestry from data, it is **inferred** ancestry."
+context:
+  ''
+debate:
+  "There may be discrepancies between an individual's assigned or self-reported race and/or ethnicity, and inferred ancestry. The label may impact the healthcare that the patient receives. By assigning race and ethnicity, clinicians and researchers risk ignoring individuals' self-identification and lived experience. An individual's sense of ethnicity and cultural identity does not always fit the categories that researchers have come up with and therefore, researchers sometimes assign a patient or a participant a label."
+resources:
+  - "[Racial and Ethnic Identification, Official Classifications, and Health Disparities](https://www.ncbi.nlm.nih.gov/books/NBK25522/) by Gary D. Sandefur et al. (2004)"
+  - "[The relationship between socially-assigned ethnicity, health and experience of racial discrimination for Māori: analysis of the 2006/07 New Zealand Health Survey](https://bmcpublichealth.biomedcentral.com/articles/10.1186/1471-2458-13-844) by Ricci B. Harris et al. (2013)"

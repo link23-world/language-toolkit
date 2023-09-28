@@ -1,0 +1,23 @@
+name: 'Caucasian'
+status: 'red'
+definition:
+  "Caucasian is historically used interchangeably with 'white' and 'European descent' when talking about ancestry and race categories, but now this word is seen to be problematic. The root of this word actually refers back to people from the ‘caucasus mountain region’ e.g. Russia, Georgia, Azerbaijan, Iran etc. Nowadays though this word typically refers to individuals who are White without concern for whether they are from a mountain region or otherwise. ‘White’ typically tends to be a safer alternative and is mostly used in data collection methods. It would be more consistent to use ‘white’ over ‘caucasian’. Historically, ‘Caucasian’ has been used to lend scientific credibility to the false attribution of wellness and superiority to a socially-constructed notion of 'whiteness'. This myth of white superiority serves to protect systems built on racial hierarchies, by normalizing discrimination and its disparate consequences on the basis of skin colour."
+related:
+  - 'Race'
+  - 'White'
+why_we_care:
+  'The use of Caucasian is an outdated and now unfavoured term which has a history of colonialism and eugenics in propagating the false myth that the white race was superior. Scientifically, the category Caucasian does not make any sense.
+
+
+  Note that the problematic nature of this word is becoming more widely spread in a UK context, but Caucasian is still widely used by scientific experts in many Asian countries, and there needs to be some work on the specific nuances of this word outside of a UK context. '
+alternatives:
+  - "Caucasian is used interchangeably with 'white' and 'European descent' but that's not correct. When talking about race, use 'white'. When talking about genomics, use European ancestry unless there is a more specific group you can use, e.g. Finnish or Estonian.
+
+    (As a side note - the only time that ‘Caucasian’ could ever be accurate was if we are referring to people from the Caucasus - but even then it’s entirely acceptable to say ‘people from the Caucasus'!)"
+context:
+  'We do not condone the use of this word so have not provided examples of its use in other contexts. "Caucasian" does not appear on official UK census records. Some organisations and private practices still use Caucasian when asking people to fill in ethnicity surveys.'
+debate:
+  'Caucasian evokes white racial superiority due to its roots in eugenics and is often used in everyday life as a discriminatory term. This is particularly important history, given that genetic studies have focused disproportionately on individuals with European ancestry.'
+resources:
+  - '[Too many scientists still say Caucasian](https://www.nature.com/articles/d41586-021-02288-x) by Alice Popejoy (2021)'
+  - '[Human Evolutionary Genetics](https://www.taylorfrancis.com/books/mono/10.1201/9780203487211/human-evolutionary-genetics-mark-jobling-chris-tyler-smith) by Mark Jobling and Chris Tyler-Smith (2004)'

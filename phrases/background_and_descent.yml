@@ -1,0 +1,19 @@
+name: 'Background and Descent'
+status: 'amber'
+definition:
+  'Background and descent might refer to ancestry, consanguinity, genealogy, ethnicity and culture and can be used interchangeably in everyday life. Note that these terms have different scientific meanings.'
+related:
+  - 'Ancestry'
+why_we_care:
+  'Background and descent do not have stable meanings and we encourage being as precise as possible when using these terms. These are very vague terms.'
+alternatives:
+  - ''
+context:
+  "In an everyday context background and descent can refer to familial and health history as well as ethnicity and ancestry. When talking to health care professionals and researchers, we encourage being more specific.
+
+
+  In a genomics context An individual's descent is estimated by comparing their DNA to DNA from a curated set of labelled individuals used as reference data. At Genomics England, we encourage employees to use ancestry instead of descent."
+debate:
+  'Background is a somewhat vague word that refers to many things. We encourage Genomics England employees to use alternatives in order to be specific.'
+resources:
+  - ''

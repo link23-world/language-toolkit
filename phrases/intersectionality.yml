@@ -1,0 +1,16 @@
+name: 'Intersectionality'
+status: 'green'
+definition:
+  "Intersectionality acknowledges that combined oppressions of class, race and gender reinforce an individual's structural disadvantages. It was originally coined to describe the specific systemic oppression that Black women are facing from anti-blackness and misogyny."
+related:
+  - 'Structural Racism'
+why_we_care:
+  "An individual's health consists of both genetic foundation and societal conditions. The idea behind intersectionality is that combined socio-economic struggles have a supercharged impact on health conditions. Genomics studies often under-appreciate the impact of social and environmental factors on health outcomes when comparing across populations."
+alternatives:
+  - 'As well as using the term "intersectionality," try identifying the root cause of the problem and using those terms instead. Examples of root causes could be structural racism or sexism. Make sure you highlight how disadvantages are often linked.'
+context:
+  "In a clinical context, an intersectional analysis considers a variety of structural challenges to better understand an individual's health."
+debate:
+  "Intersectionality challenges clinicians to understand a patient's multiple identity layers. As the term became popularised, intersectionality was used to describe every individual's subjective experience of different kinds of oppression and discrimination, not only Black women. That everyone - white people, straight men, etc. - has an intersectional experience is far from the term's original intention, which was to address the combined harm of anti-blackness and sexism. To some people, the term has come to be a 'watered down' version of its initial radical meaning."
+resources:
+  - '[Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine, Feminist Theory and Antiracist Politics](https://philpapers.org/go.pl?id=CREDTI&proxyId=&u=https%3A%2F%2Fphilpapers.org%2Farchive%2FCREDTI.pdf) by Kimberle Crenshaw (1989)'

@@ -1,0 +1,19 @@
+name: 'Self-Reported Ancestry'
+status: 'red'
+definition:
+  'A person can self-report race and ethnicity by describing the identity that best matches the continental group that they believe best matches their lived experience and their understanding of their family history. Note, a person cannot self report their ancestry as this is inferred in genome analysis.'
+related:
+  - 'Data Diversity'
+  - 'Ancestry'
+  - 'Admixed'
+  - 'Self-Reported Race and Ethnicity'
+why_we_care:
+  "Many people who self-assign ethnicity, race and ancestry do this because their appropriate category was not included in a previous census. Such individuals are often lumped together in categories of 'other'. Like admixed individuals, minority populations in small numbers are not included in surveys or in research. An individual's sense of ethnicity and cultural identity does not always fit the categories that researchers have come up with (especially in common census groupings) and therefore, researchers sometimes assign a patient or a participant a label."
+alternatives:
+  - 'Note, a person cannot self report their ancestry as this is inferred in genome analysis. Critically asses the degree of self-assignment.'
+context:
+  'In a clinical context self-reported information might differ from the information assigned to the patient by a GP, researcher, clinical coder and others, which again might differ from genetically inferred information. Patients and participants are often allowed to self-report because census surveys do not encompass all nuances of racial specificity and lived experience. Someone might report what they think their ancestry is socially, by referring to their family ethnicity, but this is not what is meant by ancestry in this context.'
+debate:
+  'There is a risk of conflating ethnicity, race and ancestry when self-reporting. Although race and ethnicity are related, race refers to a person’s physical appearance, such as skin colour and eye colour. Ethnicity, on the other hand, refers to communality in cultural heritage, language, social practice, traditions, and geopolitical factors. Genetic ancestry is inferred using genomic information. To some scientists, self-reported ancestry is not possible because ancestry is scientifically determined and inferred.'
+resources:
+  - '[Self-reported race/ethnicity in the age of genomic research: its potential impact on understanding health disparities](https://humgenomics.biomedcentral.com/articles/10.1186/s40246-014-0023-x) by Tesfaye B Mersha and Tilahun Abebe (2015)'

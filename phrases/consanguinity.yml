@@ -1,0 +1,31 @@
+name: 'Consanguinity'
+status: 'green'
+definition:
+  'A consanguinous individual has parents who are closely related, for example first cousins. Consanguinity means genetic relatedness between individuals descended from at least one common and immediate relative.
+
+
+  Note: This term has been heavily debated by editors of the toolkit, as while ‘consanguinity’ is an accepted term in the field of Genomics, it is sometimes used as a lazy substitute for other ancestries, e.g. Indian. We must avoid this association.'
+related:
+  - 'Genealogy'
+  - 'Pedigree'
+why_we_care:
+  'Consanguinity is important in a genomics context as it is used a lot in analysis of rare disease. If parents are related, a child might be at high risk for rare diseases. Recessive disorders are more likely to happen in genomes which are more homozygous, which is linked to consanguinity.
+
+
+    In a Genome Wide Association Studies (GWAS) at a population scale, we have to look at the population structures so that we can remove highly related individuals in our analysis to reduce bias. There are separate analytical methods to analysis consanguinous individuals.
+
+
+    Sometimes, we observe that scientists and population geneticists use the word consanguinous to directly refer only to people with South Asian ancestries, but this should be avoided. Any ancestral group can have consanguinous individuals (e.g. the British Royal family), and so nuance is required when using this term.'
+alternatives:
+  - ''
+context:
+  'In a clinical context, consanguinity is often discussed in relation to customary consanguineous marriage where the risk of birth defects due to multifactorial inheritance is increased.'
+debate:
+  "Within the UK, different population groups have different rates of consanguinity reflecting their cultures. While it is not specific to any one population, we can see that there is more consanguinity in some populations than others due to laws in a country or certain cultural beliefs and family structures. There is not much education on the health and genomics impacts of consanguinity, and so it can be harder for people to understand the risks of having children with people they are closely related to.
+
+
+  It should be noted that all populations have a degree of consanguinity which has developed over time. Oftentimes, people tend to relate consanguinity with south asian populations and that's not necessarily right. This term should be carefully used whenever it us used with respect to ethnic minorities and tribal populations across the world."
+resources:
+  - "[Responding to the increased genetic risk associated with customary consanguineous marriage among minority ethnic populations: lessons from local innovations in England](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4960028/) by Sarah Salway et al. (2016)"
+  - '[Human Evolutionary Genetics](https://www.taylorfrancis.com/books/mono/10.1201/9780203487211/human-evolutionary-genetics-mark-jobling-chris-tyler-smith) by Mark Jobling and Chris Tyler-Smith (2004)'
+  - "[East London Genes & Health](https://www.genesandhealth.org/) - Study focusing mainly on participants from South Asian regions, especially Pakistani and Bangladeshi"

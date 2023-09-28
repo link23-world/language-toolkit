@@ -1,0 +1,20 @@
+name: 'Cultural Sensitivity and Competency'
+status: 'green'
+definition:
+  'Cultural sensitivity is an awareness, understanding and acceptance of other cultures than oneself. Cultural competence is a related framework of which cultural sensitivity is required but goes beyond this to other skills needed for work practices.'
+related:
+  - 'Discrimination'
+  - 'Intersectionality'
+why_we_care:
+  'Not all cultures have had equitable outcomes from genomic research. Cultural sensitivity in our context relates to the ethical use of genomes. Cultural competency includes paying attention to consent and research practices, especially with view to how different cultures and communities view the use of bodily material, bio-banking, how they consent and notions of afterlife. For example, some indigenous people in the United States have expressed distrust of genomics as they do not believe that it can tell them about their origins, because they already know their origin stories from their ancestors.'
+alternatives:
+  - ''
+context:
+  'In a clinical context, cultural sensitivity and competency means understanding that symptoms and pain are not expressed in the same way by different people, and that people may have different ways of expressing their pain. Cultural sensitivity also means understanding that some communities might feel sceptical towards clinical staff or enter a treatment with deep mistrust due to historic structural violence in the medical field.'
+debate:
+  'To some, learning about values is not enough and cultural competency is viewed as performative. There are other frameworks which some feel better combat the real root issues such as health disparity and structural racism such as cultural humility and cultural safety.'
+resources:
+  - "[Why cultural safety rather than cultural competency is required to achieve health equity: a literature review and recommended definition (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6857221/)"
+  - "[Cultural Sensitivity Respect for People’s Strength, Culture and Knowledge](https://www1.nyc.gov/assets/ochia/downloads/pdf/cultural_sensitivity_wkshp.pdf) by Bronx Partners for Health and Community"
+  - "[Cultural competence and cultural sensitivity](https://thl.fi/en/web/migration-and-cultural-diversity/support-material/good-practices/cultural-competence-and-cultural-sensitivity) by Finnish Institute for Health and Welfare (2021)"
+  - "[What is cultural competence?](https://www.sydney.edu.au/nccc/about-us/what-is-cultural-competence.html) by The University of Sydney"

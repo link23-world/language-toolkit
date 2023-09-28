@@ -1,0 +1,29 @@
+name: "Bias"
+status: Green
+definition:
+  'Bias is a tendency to show preference for or against something, usually in a distorted or unfair manner. Bias exists in many different ways and settings. We found it helpful to categorise them in 3 following contexts:
+
+
+  In everyday life, bias can refer to an individual’s prejudices. For example, a bias toward hiring certain personality types in the workplace. These can be conscious or unconscious.
+
+
+  In science, research, maths and data, a bias is a systematic tendency which causes differences between results and facts.
+
+
+  At Genomics England, we are interested in all of these biases and how they can merge together and present in the products and services we build. We also believe that science, research, maths and data biases are born out of structural and societal prejudices.
+
+
+  For example, the sample bias of over-represented European ancestries in our datasets is born from a societal bias of not considering the impact of study design on a range of races and ethnicities in research.'
+related:
+  - "Discrimination"
+why_we_care:
+  'The vast majority of research has been built on a specific set of genomes of European ancestry. This means that medicines, cures, and diagnosis tend to be more likely to benefit people of these ancestries. When researchers are looking for disease-causing variants, it can be easier to start with a group that is genetically more homogenous, and this could create a bias towards one group over another.'
+alternatives:
+  'Be comfortable sitting with and using the word bias. And try to understand what is the root cause of the bias : is it a data bias, or has there been a structural way of doing things which has resulted in some people whose data has been unfairly ignored and left out of datasets. Remember, to call something Bias is not usually meant as a personal attack, but try to respond by looking at likely patterns in the system design.'
+context:
+  'In a **clinical context**, bias is rooted in structural biases, such as funding given towards developing medicines which benefit one sub-section of the population over another. Bias can also be the search for confirming an assumed truth in a dataset based on a prejudice - for example, looking in a genome. A mathematical bias might result in false positives for a patient.'
+debate:
+  'Bias is present everywhere and everyone embodies a kind of bias, intentionally or inadvertently. However, some people do not believe that they exhibit bias in their behavioural pattern, or find it harder to look for biases in the everyday contexts that they contribute to.'
+resources:
+  - "[Genomics is failing on diversity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5089703/) by Alice Popejoy and Stephanie Fullerton (2016)"
+  - "[Catalogue of Bias](https://catalogofbias.org/) - made by CEBM and Oxford University, outlining different types of bias"

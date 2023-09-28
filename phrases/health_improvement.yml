@@ -1,0 +1,17 @@
+name: 'Health Improvement'
+status: 'green'
+definition:
+  'Health improvement describes a range of official government initiatives and has recently been elevated through the creation of the Office for Health Improvement and Disparities. Health improvement policies aim to improve the health and wellbeing of individuals and communities by addressing individual consumer behaviours, such as smoking, and structural concerns, such as access to health services.'
+related:
+  - 'Health Disparities'
+why_we_care:
+  'Paying attention to health improvement on an individual and structural level may enable genomics researchers to untangle environmental and social factors from biological genomic factors.'
+alternatives:
+  - ''
+context:
+  'In a clinical context identifying health improvements is helpful for pinpointing root health issues in certain communities that are linked to environmental or social factors.'
+debate:
+  'Health improvement is part of a bureaucratic government plan to address health disparities. To some researchers, such words serve political strategy more so than actual health care.'
+resources:
+  - "[England’s new Office for Health Improvement and Disparities](https://www.bmj.com/content/374/bmj.n2323) by Gabriel Scally (2021)"
+  - "[Office for Health Improvement and Disparities](https://www.gov.uk/government/organisations/office-for-health-improvement-and-disparities/about) of the UK Government"

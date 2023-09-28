@@ -1,0 +1,25 @@
+name: 'Equity'
+status: 'green'
+definition:
+  'Equity is a practice that acknowledges baseline differences in access, structural supports, etc. are need to inform equal access and outcomes from policy interventions. Equitable practices acknowledge that offering simply equal support to everyone in a system that is flawed will not overcome these baseline differences. Instead, an equitable approach strives to offer intentional investment and greater support where needed to those who have been historically prevented from health care, housing, etc.'
+related:
+  - 'Inclusion'
+  - 'Data Diversity'
+  - 'Injustice'
+  - 'Protected Characteristics'
+  - 'Social Determinants of Health'
+  - 'JEDI'
+why_we_care:
+  'Health equity in genomic medicine requires greater availability of genomic information from diverse populations. Equitable practice in genomics acknowledges that the vast majority of genetic discoveries have been generated in populations of European ancestry. Because of this, the learnings generated from this population might not easily translate to people of other ancestries. This can lead to lower predictive accuracy and diagnostic yield in non-European populations.'
+alternatives:
+  - ''
+context:
+  'In an everyday context, equity can be used in a range of settings as a way of giving more opportunities to disadvantaged groups such as women in the workplace or accessibility for those with disabilities for example.
+
+
+  In a clinical context, health equity is used to address the health inequity experienced by particular groups due to biological and socioeconomic factors. We use the NHS Healthcare Inequalities Improvement Planning Matrix to link the work we do on Diverse data with wider health equity efforts. '
+debate:
+  'Equity is different from equality as equitable approaches aim not to offer **equal** healthcare to all but to offer more to those who are marginalised and disadvantaged. Equity requires structural changes in order to be successfully implemented: all populations must have equal, effective, and affordable access to genomic medicine. Further, diagnosis, prevention, and treatment strategies must target the genetic basis of diseases without bias for or against any group.'
+resources:
+  - '[Defining and Achieving Health Equity in Genomic Medicine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6428182/) by Sonya Jooma (2019)'
+  - '[Healthcare Inequalities Improvement Planning Matrix](https://www.england.nhs.uk/about/equality/equality-hub/national-healthcare-inequalities-improvement-programme/contacts-and-resources/healthcare-inequalities-improvement-planning-matrix/) by NHS England'

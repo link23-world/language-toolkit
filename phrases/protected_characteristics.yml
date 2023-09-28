@@ -1,0 +1,18 @@
+name: 'Protected Characteristics'
+status: 'green'
+definition:
+  'Nine characteristics are protected against discrimination by law including age, disability, gender assignment, marriage and civil partnership, pregnancy and maternity, race, religion and belief, sex, and sexual orientation. This law is only in place in the UK and Equality Acts elsewhere might look different. '
+related:
+  - 'Structural Racism'
+  - 'Systemic and Systematic Racism'
+why_we_care:
+  'The nine protected characteristics encourage reflection about diversifying data. Lots is still to be discovered around how much these characteristics affect health outcomes, and particularly how these will be merged in genomic data analysis.'
+alternatives:
+  - 'Be very careful about what is or is not a protected characteristic. For example, citizenship is not a protected characteristic. Some protected characteristics are not protected under the Equality Act, like marriage and civil partnership.'
+context:
+  'In a clinical context, the nine protected characteristics are a legal acknowledgement of the historical medical violence that has been committed against minorities. Clinical staff can be aware of this history when engaging with patients and participants.'
+debate:
+  'There is debate around what should count as a protected characteristic. Examples include dietary requirements and financial situations. Some people might be sceptical towards the law’s role in upholding the protection of the nine characteristics. While the law might be written down, discrimination and structural racism still persist.'
+resources:
+  - '[Protected characteristics](https://www.equalityhumanrights.com/en/equality-act/protected-characteristics) by Equality and Human Rights Commission (2021)'
+  - '[Protected characteristics](https://www.citizensadvice.org.uk/law-and-courts/discrimination/protected-characteristics/) by Citizens Advice'

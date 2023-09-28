@@ -1,0 +1,18 @@
+name: 'Inbreeding'
+status: 'red'
+definition:
+  'Inbreeding refers to the mating/breeding of organisms that are closely related, often over many generations.'
+related:
+  - 'Consanguinity'
+  - 'Incest'
+  - 'Racism'
+why_we_care:
+  'We want to use scientifically precise terms, particularly when referring to cultural practices where stigmatising language can easily be inadvertently used. Inbreeding and related terms e.g. inbred tend to be colloquial and have potentially harmful implications.'
+alternatives:
+  - '"Consanguinity" is the appropriate scientific term to refer to inbreeding.'
+context:
+  'In a genomics context, in order to investigate the impact of different breeding patterns, alleles and traits, genetic studies will breed organisms (such as fruit flies) under certain conditions to encourage in/cross/out-breeding.'
+debate:
+  'Inbreeding refers to any organism, and is often used to describe non-human animals and their mating practices or "selective breeding" or "cross breeding" such as in breeding domesticated animals like dogs, cats or horses. Because close-relative marriages are more common in some cultures, and in-breeding results in a higher change of a child being affected by a recessive trait (ie being "in-bred"), "in-breeding" can be seen as a term that dehumanises people observing these cultural practices and supports racist, ableist or eugenic ideologies and practices. '
+resources:
+  - ''

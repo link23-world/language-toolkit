@@ -1,0 +1,17 @@
+name: 'Data Diversity'
+status: 'gray'
+definition:
+  "Data diversity refers to the variation within a cohort. The diversity of England is a reflection of the variation within the whole population, and Genomics England's dataset will be a biased subset of that. The aim of the [Diverse Data programme](https://www.notion.so/Diverse-Data-Programme-at-Genomics-England-ba32220ca0b9499f8718b3d24b57d309?pvs=21) at Genomics England is to try and unbias this dataset as much as possible."
+related:
+  - 'Data Stewardship'
+why_we_care:
+  "As an organisation that puts patients first, it is important to consider how some patients' observable characteristics may lead to worse health outcomes. However, there are lots of different ways to tackle the problem of diversity, and it can be hard to agree what approach to take and where to start."
+alternatives:
+  - "There is no such thing as a 'diverse' person. Avoid terms like 'diverse groups' and 'diverse people' Diversity refers to the whole, not just a section that contributes to the whole. If a specific group is missing from your dataset, like African ancestry, then call it that!"
+context:
+  'In an everyday context, diversity refers to the practice or quality of including or involving people from a range of different social and ethnic backgrounds and of different genders, sexual orientations, etc.'
+debate:
+  'There are many different ways to look at diversity. For example, diversity within a population can be focussed on those who have been historically under-represented or on those who have lived in neglected conditions. Each approach results in different methods and outcomes and it can be hard to know which approach to take.'
+resources:
+  - "[Diversity In Precision Medicine And Pharmacogenetics: Methodological And Conceptual Considerations For Broadening Participation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6800456/pdf/pgpm-12-257.pdf) by Alice Popejoy (2019)"
+  - "[Inclusive Data Taskforce launches report on data inclusion](https://www.basisresearch.com/social-news-hub/inclusive-data-taskforce-launches-report) by Basis Social (2020)"

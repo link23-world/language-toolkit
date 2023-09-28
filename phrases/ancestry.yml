@@ -1,0 +1,38 @@
+name: 'Ancestry'
+status: 'Green'
+definition:
+  'Ancestry is directly inferred from genome variation and not self-defined and is the relatedness/similarity to a predefined set of genomes. These pre-defined set of genomes are commonly regarded as continental groups (for example, “European”), although the set can vary depending on the scientific question and aims of the study. Ancestry is a term relative to time, geography, reference population data, and the methods used to estimate and infer ancestry.
+
+  It is important to note that the conceptual frameworks used to estimate ancestry are often based on assumptions of genetic homogeneity within ancestry groups and the ancestry groups considered tend to reflect the continents, which often coincide with socially defined racial categories. Ancestry groups considered usually reflect the history of the population under study. For example, ancestry groups of the Inuit would be Native American and European. Ancestry groups of the US reflect the geographical origins of the major migrations into the US.'
+related:
+  - 'Admixed'
+  - 'Pure'
+why_we_care:
+  'Modern populations of modern humans as a species all have a common origin on the continent of Africa. Therefore, ancestry at the time scale of more than 200,000 years makes little sense unless you can differentiate among populations in Africa. In reality, ancestry refers to ‘recent’ ancestry, which reflects ancestry spanning approx. 600-6000 years ago.
+
+  At Genomics England, we commonly use continental ancestry categories to group genomes. However, the categories are not always precise: for example, the African category mainly consists of West African samples. This is problematic as it risks excluding someone with East African ancestry from the dataset.'
+alternatives:
+  - "Inspired by the work of population geneticists like Graham Coop, we suggest that we move towards talking about ‘ancestries’ as opposed to ‘ancestry’ e.g. European Ancestries, as this better captured the nuance that the reference population is not a single homogeneous group."
+  - "Another alternative is referring to an individual’s ancestry as genetic similarity to the reference population, rather than assigning them to an ancestry group."
+  - "For those working in a more technical context, there are two types of ancestry - local and global.
+
+
+    **Local ancestry** specifies which reference data best match the DNA in different segments of an individual's genome that are inherited as a package of variants on a chromosome from either the maternal or paternal lineage. This conceptual framework for ancestry is more closely aligned with reality in that all human genomes are a mixture of DNA segments from many different ancestral lineages, with very rare exceptions (e.g., when families are highly consanguineous, or have children exclusively with close relatives for many generations).
+
+
+    **Global ancestry** is a framework for categorising individuals into continental groups, based on comparisons between DNA from study subjects and DNA from 'reference data' which are labelled by continent."
+  - "Always make your query very specific before conforming to continental ancestry groups."
+context:
+  "In **everyday use**, people might use ancestry to refer to their family tree.
+
+
+  In a **genomics context** an individual's ancestry is estimated by comparing their DNA to DNA from a curated set of labelled individuals used as reference data. Since samples often are collected from one location and used to represent a whole continent, the method of estimating based on a curated set of data risks concluding flawed ancestries."
+debate:
+  "Some researchers urge geneticists to move away from continental ancestry categories (e.g. African, East Asian, South Asian, European and American) since a singular location-specific notion of ancestry bears resemblance to racial groupings and further overlooks that ancestry changes over time and varies within continental groups. Oftentimes, race and ancestry are conflated, which leads scientists and clinicians to attribute differences in health to innate biology rather than to social inequality. Continental ancestry categories disregard diverse populations from around the world who cannot be reasonably sub-categorised, and merge large groups of people who are genetically diverse - such as people from Africa."
+resources:
+  - "[Genetic similarity and genetic ancestry groups](https://arxiv.org/abs/2207.11595) by Graham Coop (2022)"
+  - "[Getting Genetic Ancestry Right for Science and Society](https://arxiv.org/pdf/2110.05987.pdf) by Anna Lewis et al. (2021)"
+  - "[Origins of Modern Human Ancestry](https://www.nature.com/articles/s41586-021-03244-5) by Anders Bergström et al. (2021)"
+  - "[Where did your genetic ancestors come from?](https://gcbias.org/2017/12/19/1628/) by The Coop Lab, UC Davis (2017)"
+  - "[Genetic Genealogy](https://gcbias.org/category/genetic-genealogy/) by The Coop Lab, UC Davis (2017)"
+  - "[Too many scientists still say Caucasian](https://www.nature.com/articles/d41586-021-02288-x) by Alice Popejoy (2021)"

@@ -1,0 +1,24 @@
+name: 'Race'
+status: 'amber'
+definition:
+  "Today, race is widely agreed to be a socio-political construct. Historically, race has been treated as a biological variable. Whenever Race is used, we also need to be aware of the difference between race, ancestry, nationality and ethnicity. Race is the way we are perceived by our surroundings and often determines significant factors in our lives such as education, health care, relationships, wealth, etc. An individual's race is based on imprecise observations of phenotypes (or characteristics) based on skin colour, hair texture, etc. These characteristics change meaning depending on social context. Although there is correlation between race and recent ancestry, race cannot be defined using genomic variation. Note, many people self-identify as belonging to a racial group - it's not just the way you are perceived it can be the way you choose to identify."
+related:
+  - 'Social Determinants of Health'
+  - 'Ethnicity'
+  - 'Ancestry'
+  - 'Superpopulations'
+why_we_care:
+  "Race has played a huge part in data collection and analysis in genomics, usually to a detrimental effect. In order to diversify data, racial groups have been used in attempts to target those likely to have similar genetic ancestry in research. The clinical impact can come after and then in the other contexts too. A person's experience of being racially categorised by others has a huge impact on their clinical care, e.g. how their pain levels are perceived, the stage at which they present at clinic, etc. It is important when carrying out analysis to consider the impact that this may have on our datasets, and also how the results of our findings might be misinterpreted across different racial groups."
+alternatives:
+  - "Used correctly, there isn't an alternative. But we must be very clear if what we are defining s actually race, or if it should be ethnicity or ancestry. Remember that genetic groups are not homogenous."
+context:
+  'In a genomics context, it is important to uncouple genetics from race: race does not exist in genomics; race only exists socially.
+
+
+  In a clinical context, race as a socio-political structure has real and measurable effects. i.e. used negatively contributes to racism'
+debate:
+  'Race is sometimes used incorrectly when what is actually meant is ancestry or ethnicity. There is a big fear amongst clinicians and geneticists to talk about race due to an outdated belief that race is biological. Currently, most clinicians and geneticists are white and/or educated in Europe or North America. This inequality has created many of the current health disparities in accessibility to care. It can be difficult to address these biases. Therefore, the results of our research analyses often feed back into a healthcare system which has structural bias.'
+resources:
+  - "[Characterizing Race/Ethnicity and Genetic Ancestry for 100,000 Subjects in the Genetic Epidemiology Research on Adult Health and Ageing (GERA) Cohort](https://academic.oup.com/genetics/article/200/4/1285/5936163) by Yambazi Banda et al. (2015)"
+  - "[Are You There, Race? It's Me, DNA](https://www.mcgill.ca/oss/article/health-general-science/are-you-there-race-its-me-dna) by Jonathan Jarry (2019)"
+  - "[Race and Genetic Ancestry in Medicine — A Time for Reckoning with Racism](https://www.nejm.org/doi/full/10.1056/NEJMms2029562) by Luisa Borrell et al. (2021)"

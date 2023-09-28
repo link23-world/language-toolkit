@@ -1,0 +1,21 @@
+name: 'East Asian'
+status: 'amber'
+definition:
+  'In genomics, East Asian refers to one of the five main population groups in population genomics databases. East Asian is also used as a racial category. "East Asian" spans a large geography and is therefore can be seen as imprecise. The claim to continental homogeneity on a genomic level has its roots in a flawed scientific method: the belief that humans have been isolated on continents throughout our early history. In fact, the opposite is true. Humans have been migrating and mixing since the beginning of our species. East Asian is a genomics methods category that has its roots in racial taxonomy. East Asia also clashes with ethnicities and racial self-perception as it includes people from Southeast Asia.'
+related:
+  - 'ESEA'
+  - 'Ancestry'
+  - 'South Asian'
+why_we_care:
+  "When you group people by continental groups, many don't fit and affects findings and that way you get bias. Sometimes, East Asian is used to refer to anyone who is Han-Chinese in the Genomics England Dataset, which risks confusion. An East Asian category risks incorrectly supporting the myth that race is encoded in our DNA. Sampling DNA from a continent reinforces the idea that Asian 'populations' are genetically homogeneous across Asia. The likelihood is that you've sampled a subset of ethnic groups from that continent. As, phenotypic, ethnic and cultural associations have been made alongside the category of East Asian its use is at risk of supporting the myth that race is biological determined in our DNA."
+alternatives:
+  - "There are many reasons why it's not possible to seek out a precise ethnicity from an ancestry dataset. 'East Asia' is made up of many different areas, but to describe someone as 'east asian' without specifically seeking out their ethnicity could be seen as reductive. Again, there is nuance here: identify what you are referring to: Is it culture, ethnicity, race or ancestry. If ancestry, try to be more specific about the categories e.g. Han Chinese, and define why you have classed a certain group in a certain way, for example in the 1k genomes project."
+context:
+  'In a political context East Asian often refers to people from China, Japan and Korea. This geography is much broader when referring to East Asian in genomics, which also includes Southeast Asia such as Indonesia and Vietnam. Some people like to use the term ESEA (East and South East Asian) to refer to the larger diaspora.
+
+
+  In a genomics context it is important that ancestry is not inferred from physical appearance such as equating someone who looks East Asian with East Asian ancestry, for example some clinicians can make an assumption and this is the data we end up using.'
+debate:
+  'DNA can reflect the migrations of humans across the globe, and it is possible to categorise humans into groups based on this migration history, however, current continental groupings do not reflect the main genetic ancestries of humans, so much as historical divisions and categories e.g. East and South Asians are likely to be more similar than many African populations. Divisions of South and East Asian as many understand them may also tie to colonisation of the continent by the British Empire rather than any precise ethnic divisions.'
+resources:
+  - "[Genomic insights into the formation of human populations in East Asia](https://www.nature.com/articles/s41586-021-03336-2) by Chuan-Chao Wang et al. (2021)"

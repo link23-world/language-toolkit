@@ -1,0 +1,23 @@
+name: 'Pedigree'
+status: 'amber'
+definition:
+  "A pedigree is a graphical representation of a familial relationships. This is strictly to be used in Genomics contexts only, and great care taken when talking to members of the public. It can be used to determine the inheritance or trait of a disease through several generations. A pedigree reflects recent familial relationships, as opposed to ancestry which reflects genetic relationships over many generations. A gene/alogy can be regarded as an extended pedigree.
+
+
+  **Note**: This term has been heavily debated by editors of the toolkit, as while 'pedigree' is an accepted term in the field of Genomics, it is not common practice by Genomics Counselors to use this word when communicating with members of the general public. Instead, 'family tree' is used.  Because this toolkit is primarily centred on talking about genomics in different contexts, we decided to prioritise Pedigree into the amber list."
+related:
+  - 'Genealogy'
+  - 'Ancestry'
+  - 'Pure'
+  - 'Non-Pure'
+why_we_care:
+  "A pedigree can be useful in inferring inheritance patterns of rare diseases inherited in a Mendelian manner. 'Family tree' is often used to communicate with patients and families who don’t have a genetics background."
+alternatives:
+  - 'In an everyday context, there is a risk that people make a link between dogs and people. Use family tree instead when talking with patients. The etymology of the word for pedigree comes from the French for “pe de gru”, meaning "foot of a crane".'
+context:
+  "In a genomics context, a pedigree is the recent group of people that determined an individual's genetics and is useful to determine inherited traits to identify disorders."
+debate:
+  "Since pedigrees usually try to include generations that are known, often at least three, pedigrees are very different from ancestral sequencing. They are very useful in a genomics context, but when applied in an everyday context, they evoke connotations of comparing people to dogs, which is not recommended."
+resources:
+  - '[Pedigree](https://www.genome.gov/genetics-glossary/Pedigree) by Suzanne Hart, National Human Genome Research Institute'
+  - '[Human Evolutionary Genetics](https://www.taylorfrancis.com/books/mono/10.1201/9780203487211/human-evolutionary-genetics-mark-jobling-chris-tyler-smith) by Mark Jobling and Chris Tyler-Smith (2004)'

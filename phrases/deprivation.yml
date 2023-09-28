@@ -1,0 +1,17 @@
+name: 'Deprivation'
+status: 'green'
+definition:
+  'Deprivation is defined separately from poverty, according to the Government. As stated in the September 2019 Statistical Release of the English Indices of Deprivation, people may be considered to be living in poverty if they lack the financial resources to meet their needs, whereas people can be regarded as deprived if they lack any kind of resources, not just income.'
+related:
+  - 'Poor'
+why_we_care:
+  'In a rare disease context, it can be difficult to distinguish between the genomic and societal causes of a disease. For example, someone might have a condition which is worsened by the fact that they are from a socially deprived area and risk having a generally lower level of access to good education. It is difficult to understand and compare the differences. It is oftentimes hard to discern from variants when doing cross-root comparison. There is a history of tending to de-prioritise these in genomic analyses, but it is important to remember that the analyses carried out at Genomics England will be introduced back into a world where poverty and deprivation greatly affects outcomes.'
+alternatives:
+  - ''
+context:
+  "In a clinical context poverty and deprivation impacts a patient's health and must not be conflated with genetics."
+debate:
+  "We discourage the use of 'poverty' and instead encourage employees to use social deprivation to match the language used in government reports and include factors such as income, education, housing and health."
+resources:
+  - '[How can we calculate levels of deprivation or poverty in the UK?](https://blog.ukdataservice.ac.uk/deprived-or-live-in-poverty-1/) by Neil Dymond-Green (2020)'
+  - "[England's new Office for Health Improvement and Disparities](https://www.bmj.com/content/374/bmj.n2323) by Gabriel Scally (2021)"

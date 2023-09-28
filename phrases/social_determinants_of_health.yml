@@ -1,0 +1,18 @@
+name: 'Social Determinants of Health'
+status: 'green'
+definition:
+  "Social determinants of health is an official term used by WHO and many governments to describe non-medical and non-genomic factors that influence public health outcomes. The determinants include individuals' wealth, education, health care, neighbourhood and social community as well as the access and quality of those. For example, such factors may include someone's literacy, job opportunities, and access to parks and food."
+related:
+  - 'Structural Racism'
+  - 'Health Disparities'
+why_we_care:
+  'Social determinants of health are hard to discern when doing cross-root comparison. Systematic oppression means that certain groups are not taken into account, as patients and participants, and further, that ancestry itself is deeply correlated with social concepts like race.'
+alternatives:
+  - ''
+context:
+  "In a political context, Social Determinants of Health come out of a political and bureaucratic language that changes over time depending on a Government's health strategy."
+debate:
+  "Social Determinants of Health is a Government phrase that aims to describe all environmental and social factors that influence an individual's health. This terminology changes depending on Government policy and might not align with the viewpoints of individual clinicians and geneticists."
+resources:
+  - "[Social Determinants of Health](https://health.gov/healthypeople/objectives-and-data/social-determinants-health) by US Department of Health and Human Services"
+  - "[Social determinants of health](https://www.who.int/health-topics/social-determinants-of-health#tab=tab_1) by WHO"

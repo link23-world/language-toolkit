@@ -1,0 +1,21 @@
+name: 'Observable Characteristics'
+status: 'green'
+definition:
+  'Observable characteristics refer to the unique combination of traits that every individual has. In a genomics context, these are traits that you can observe about someone through their genome. Such characteristics include skin colour, hair texture and presence or absence of a disease. Most of these are controlled by a mixture of genes and other factors, like the environment and socialisation.'
+related:
+  - 'Pedigree'
+  - 'Intersectionality'
+  - 'Decolonisation'
+why_we_care:
+  "A phenotype is an individual's observable traits. The genetic contribution to the phenotype is called the genotype. Phenotypes are equally, or even sometimes more greatly influenced by environmental effects than genetic effects. So a phenotype can be directly related to a genotype, but not necessarily."
+alternatives:
+  - 'The are very specific nuances here - note that some diseases, like depression, cannot be observed in a genome or casual observation but need to carefully or clinically observed.'
+context:
+  'In a genomics context, observable characteristics can often be traced in datasets such as a phenotype for skin colour or a disease. Observable characteristics are distinguishable from protected characteristics, which are linked to systemic oppression and historic violence'
+debate:
+  "The main discussion relates to 'nature/nurture': observable traits are related to genetics but they are equally or more influenced by environment and socialisation.
+
+
+  Some researchers believe that you can only analyse genes by looking at their 'pure' phenotype, however we believe you also need other data to have a firm understanding of the root of the disease e.g. data on the person's environmental conditions."
+resources:
+  - '[Phenotype](https://www.genome.gov/genetics-glossary/Phenotype) by National Human Genome Research Institute'

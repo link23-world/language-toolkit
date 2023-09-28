@@ -1,0 +1,19 @@
+name: 'Poor Response'
+status: 'amber'
+definition:
+  'This phrase has been used when referring to suboptimal biochemical (or other) responses in a test cohort versus responses in a reference cohort. This phrase is often used when comparing responses between different groups and so might imply inferiority, and should be avoided.
+
+
+  Example of use: "Macrophages from group X demonstrated a significantly poorer response to compound Z, compared to macrophages from group Y."'
+related:
+  - 'Innateness'
+why_we_care:
+  'We have decided to amber list this term because the wording has been used in the past, and still is used today, to further harmful ideas of race science. There are better alternatives that can be used, see below.'
+alternatives:
+  - "Responses can be described using words that denote difference and variation very directly. For example, 'lower activation rates', 'higher proliferation rates'."
+context:
+  ''
+debate:
+  'This phrase might imply inferiority, and should be avoided.'
+resources:
+  - '[Scientific racism and racial justice](https://soundcloud.com/user-622675754/s2e1-objectivity-scientific-racism-racial-justice-furaha-asani-mwenza-blell) by Surviving Society (2020)'

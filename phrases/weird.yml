@@ -1,0 +1,19 @@
+name: 'WEIRD'
+status: 'amber'
+definition:
+  'WEIRD countries are countries which are characterised by being Western, Educated, Rich, Democratic and Industrialised (WEIRD).'
+related:
+  - 'Global North'
+  - 'Global South'
+  - 'High-Income Countries'
+  - 'Low- and Middle-Income Countries'
+why_we_care:
+  'Broader societal and systemic factors are major contributors to the inequity we observe in genomic medicine; from the scientific questions we pose, to how we diagnose clinical conditions, to how we fund genomic research. The approach of WEIRD countries disproportionately shapes the global landscape of genomics.'
+alternatives:
+  - 'Specific countries should be listed and/or particularly factors that might group some countries together in terms of their similarity (policies, cultural practices etc). For example, "Western", "Mostly White", or "European Ancestries".'
+context:
+  ''
+debate:
+  'This is a term coined by Joseph Henrich; Professor of Biological Anthropology and Professor of Human Evolutionary Biology at Harvard University and was created to describe the anchoring of certain view points and psychology which have come to dominate global approaches. Whilst it is a term that captures the more systemic factors which affect equity in genomics e.g. the Western dominance of how genomics research should be funded, the term is not sufficiently widely recognised to be well understood, and therefore the acronym can be easily mis-interpreted unless explained.'
+resources:
+  - "[How the West became WEIRD](https://news.harvard.edu/gazette/story/2020/09/joseph-henrich-explores-weird-societies/) by Juan Siliezar (2020)"

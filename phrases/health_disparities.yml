@@ -1,0 +1,16 @@
+name: 'Health Disparities'
+status: 'green'
+definition:
+  "Health disparities refer to the differences in health between various individuals. Health disparities can be a proxy for class and race as these socio-political factors often determine individuals' access to health care, education, housing and so on."
+related:
+  - 'Social Determinants of Health'
+why_we_care:
+  'Health disparities have a huge role to play in causes of a disease and are oftentimes hard to discern from variants when doing cross-root comparison. There is a history of tending to de-prioritise these in genomic analyses, but it is important to remember that the analyses carried out at Genomics England will be introduced back into a world where health disparities greatly affect outcomes.'
+alternatives:
+  - ''
+context:
+  'In a societal context, health disparities could refer to someone not being taught about period pain in school, and then not knowing how to manage period pain. This could result in a potentially severe menstrual related condition, like endometriosis, going unnoticed.'
+debate:
+  'Health inequalities have been important and contentious in UK health policy since the publication in 1980 of the Black Report on inequalities in health. For some researchers, "disparities" is a bureaucratic government word choice to avoid dealing with inequality.'
+resources:
+  - ''

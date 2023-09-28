@@ -1,0 +1,19 @@
+name: 'Trans-Ancestry and Trans-Ethnicity'
+status: 'amber'
+definition:
+  "Trans-ancestry and trans-ethnicity describe analyses that combine or compare several continental ancestrally diverse populations. Trans-ethnic and trans-ancestry are often used interchangeably, and it's often not very helpful as many people have different meanings attached to using this word, for example, the same word could confusingly be used to refer to a databank with lots of different ethnicities as well as a number of different ancestry plots on a PCA plot."
+related:
+  - 'Data Diversity'
+why_we_care:
+  'Trans-ethnic and trans-ancestry is not a standardised genomic term and people use it to mean a multitude of things. For example, someone might use the word to refer to a dataset which has lots of ancestries within it, and another might use it to say that one genome has a lot of ancestral roots.'
+alternatives:
+  - "Because this term is used to mean a number of different things, make sure you clarify what you are about what you're talking about for better accuracy. We generally try to avoid using this term at Genomics England, though recognise that it is used in global discourses."
+context:
+  'In a clinical context, trans-ancestry can refer to many things such as the fact that there are multiple people of mixed ancestries in a cohort group. Trans-ethnic can mean a sample contains more than just European ancestry.
+
+
+  In a societal context trans-ancestry can be confused as transracial, a phenomenon where people, usually white, identify as a different race than the one associated with their biological ancestry. This is a highly controversial term by as some people from historically marginalised communities. They say that those who identify as transracial are acting on a privilege that they can choose how they are racially perceived.'
+debate:
+  "Trans-ethnic has been widely used to describe methods that compare or combine data from cohorts with two or more continental ancestries. This phenomenon began in 2001 as an attempt to move away from using 'trans-racial' — a popular descriptor in biomedical analyses in the 1980s and 1990s. However, trans-ethnicity and trans-ancestry do not have stable meanings in genetics or medicine. These terms are also often conflated with social meanings of race and ethnicity."
+resources:
+  - "[Misuse of the term 'trans-ethnic' in genomics research](https://www.nature.com/articles/s41588-021-00952-6) by Mireille Kamariza et al. (2021)"

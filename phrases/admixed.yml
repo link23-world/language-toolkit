@@ -1,0 +1,24 @@
+name: 'Admixed'
+status: 'amber'
+definition:
+  "Admixed populations are formed through genetic mixing of two or more populations who were previously isolated from one another over several generations. Admixed individuals can trace their ancestry back to multiple source populations. Admixture is a population term. It is worth noting that in some way or another, we are all from admixed populations but cannot be 'admixed' ourselves."
+related:
+  - 'Pure'
+  -  'Superpopulations'
+  - 'Mixed Race'
+why_we_care:
+  'Most genome samples will include some degree of admixture and admixture does not translate into race or ethnicity. Admixed individuals are often lumped together in surveys as one group when in fact they span a vast variety. Due to the difficulty of labelling admixed samples, they are sometimes left out of statistics, and end up in "unassigned" categories.
+
+
+  The division lines between population data are somewhat arbitrary. Data points are plotted into clusters and those too close to the dividing line are not included because they cannot be confidently classified into one or the other cluster. This reinforces the false notion of "pure" or "isolated" populations that are genetically homogeneous, because most individuals who fill the spectrum of diversity have been excluded from studies.'
+alternatives:
+  - "Admixture has many different forms, so make sure you are clear what type of admixture you are referring to to avoid confusion. Deepti Gurdasani's paper is a good guide on the types of admixture."
+  - "Always make your query very specific before conforming to continental ancestry groups. If speaking about someone of mixed race, specify the racial background or simply use 'mixed race'."
+  - When talking about an individual, instead say multiple ancestries.
+context:
+  'In a clinical context admixed is used in relation to the collection of DNA samples and the estimation of ancestry.'
+debate:
+  'Genetic studies have focused disproportionately on individuals with European ancestry, and individuals from admixed populations rarely make it to research studies since their ancestries are in-between population divisions. Further, population divisions suggest that at some point in time, humans were mostly divided into homogeneous groups by the natural geographical barriers between continents, when in fact humans have always been interacting across continents.'
+resources:
+  - "[Human genetic admixture](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009374) by Katharine L. Korunes and Amy Goldberg (2021)"
+  - "[Genomics of disease risk in globally diverse populations](https://www.nature.com/articles/s41576-019-0144-0) by Deepti Gurdasani et al. (2019)"

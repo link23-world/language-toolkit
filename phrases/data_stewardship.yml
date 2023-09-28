@@ -1,0 +1,17 @@
+name: 'Data Stewardship'
+status: 'green'
+definition:
+  'Data stewardship refers to the responsibility of keeping an organization’s data safe. Users and participants trust that the data are used for the purpose collected. Data stewardship can take many forms including community stewardship.'
+related:
+  - 'Inclusion'
+  - 'Cultural Sensitivity and Competency'
+why_we_care:
+  "There is an important conversation around building trust between genome participants and researchers. For example, as part of data stewardship for collecting genomes in the African Continent, we must understand the conflict between using the participants' genomes and ensuring that researchers and participants in the African Continent can benefit from the research."
+alternatives:
+  - "That there may be more suitable ways to describe how aspects of data are managed and shared when all factors of data stewardship are not evident. Sometimes this word can be used without considering all the elements about what it means to keep data safe and respect a participant's genetic information. Make sure you are very clear about what factors are involved in data stewardship so that you have clear transparency with all those involved."
+context:
+  'In a political context, data stewardship means that a researcher is considered only a temporary steward of blood and tissues for research. The community or individual retains ownership and control. Data is retained as the property of community and individual donors.'
+debate:
+  "Data has often been misused and abused by clinical and scientific projects and staff. It is therefore important to build trust in an organisation's ability to carry out responsible data stewardship. A data stewardship-approach DNA sample collection requires extensive and regular communication and ongoing relationships with communities if researchers want to make use of samples as new questions and technologies of investigation arise."
+resources:
+  - '[“Your DNA Is Our History”: Genomics, Anthropology, and the Construction of Whiteness as Property](https://www.jstor.org/stable/10.1086/662629?seq=1#metadata_info_tab_contents) by Jenny Reardon and Kim TallBear (2012)'

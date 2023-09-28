@@ -1,0 +1,26 @@
+name: 'Multiracial'
+status: 'amber'
+definition:
+  'Multiracial is a societal term which refers to an individual of two or more racial backgrounds. Just like how race is assigned and ancestry is inferred, the concept of many races is a social construct. These populations tend to have more blended genetic ancestry and more flexible social identities. When referring to many of ancestries, use "admixed".'
+related:
+  - 'Admixed'
+  - 'Mixed Race'
+why_we_care:
+  'Genomic and societal terms can be often confused. Individuals with recent multiple ancestries are different from admixed populations. An individual with Caribbean and white British parents are multiracial or mixed race, while their Caribbean ancestry most likely is admixed.'
+alternatives:
+  - 'Some people prefer the term "Mixed" as opposed to multiracial or mixed race when talking of racial profiles as they believe that other races are also born of multiple races.'
+context:
+  'In an everyday context Multiracial and mixed has become a common terms in the UK, for instance, popularised by Natalie Morris and her book "Mixed/Other: Explorations of Multiraciality in Modern Britain.”
+
+
+  In a clinical context Multiracial individuals rarely fall neatly into categories and therefore highlight the inconsistencies in the definitions of race and parameters that are used to classify populations.'
+debate:
+  'Multiracial individuals highlight that their racial identity can influence how health treatments are prescribed, depending on what singular race the clinician identifies them as. Multiracial individuals often prefer to self-assign their race and ethnicity.
+
+
+  There are in reality an almost infinite number of racial combinations, but terms around specific racial combinations are often seen as slurs. For example, ‘Mulatto’ and ‘Hapa.’ Mulatto has origins in enslavement and is considered outdated and offensive; it refers to individuals of African and European ancestry. Hapa is used to refer to individuals of Asian and European ancestry. It is misappropriated from the Hawaiian term ‘hapa haole’ or a part White and part Hawaiian individual, and is thus problematic when used broadly.'
+resources:
+  - "[Mixed Race: Understanding Difference in the Genome Era](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2600806/) by Elizabeth M. Phillips et al. (2007)."
+  - "[Mixed/Other: Explorations of Multiraciality in Modern Britain](https://books.google.co.uk/books/about/Mixed_Other.html?id=6RDoDwAAQBAJ) by Natalie Morris (2021)."
+  - "[Mind the gap: how multiracial individuals get left behind when we talk about race, ethnicity, and ancestry in genomic research](https://arxiv.org/abs/2205.00027) by Daphne O. Martschenko et al (2022)."
+  - "[Getting genetic ancestry right for science and society](https://www.science.org/doi/10.1126/science.abm7530) by Anna Lewis et al (2022)"

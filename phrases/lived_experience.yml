@@ -1,0 +1,17 @@
+name: 'Lived Experience'
+status: 'green'
+definition:
+  "Lived experience is a qualitative research method that values and takes into consideration information from people who have lived through a particular situation or experience. At Genomics England, this usually means someone with a specific condition or disease in the process of finding treatments and understanding the condition better.   This can be a sensitive term which acknowledges everyone has a life experience which may not be representative of others. The term also tends to include the lessons learnt from certain 'lived experiences'."
+related:
+  - 'Cultural Sensitivity and Competency'
+why_we_care:
+  'Some people and communities have had bad experiences of interacting with the NHS. This could prevent them from trusting the service, and returning to care, and could affect their willingness to donate genomes for research. As the NHS is a government-owned institution, it is important to understand how a negative lived experience with the government might affect affiliation with Genomics England. Understanding this is essential to how we build trust at Genomics England.'
+alternatives:
+  - ''
+context:
+  'In a clinical context, lived experience offers a complementary way of doing research on treatments that are developed with patients and participants.'
+debate:
+  'Lived experience adds an important dimension to understanding diseases that lab analyses might not always be able to see through sequencing. Some scientists might see information gathered from long interviews with participants as less objective than DNA samples and might be reluctant to take lived experience into account.'
+resources:
+  - '[Venus in Two Acts](https://read.dukeupress.edu/small-axe/article/12/2/1/32332/Venus-in-Two-Acts) by Saidiya Hartman (2008)'
+  - '[Engaging a person with lived experience of mental illness in a collaborative care model feasibility study](https://researchinvolvement.biomedcentral.com/articles/10.1186/s40900-020-00247-w) by Lenka Vojtila et al.(2021)'

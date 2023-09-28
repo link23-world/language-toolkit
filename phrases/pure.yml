@@ -1,0 +1,28 @@
+name: 'Pure'
+status: 'red'
+definition:
+  '"Pure" and "non-pure" refer to the myth of "clean" and "messy" ancestry. These ideas imply that some individuals are from a single homogenous group and others are from a "mix" of several homogenous groups. Homogeneity, however, on a genomic level, does not exist as human populations have been migrating and mixing since the beginning of our species. Therefore, the idea of "messy" ancestry is a function of the methods used to group people into clusters of homogeneity. At Genomics England, we discourage the use of these ideas because they are rooted in racial taxonomies and reinforce the idea of a racial hierarchy.'
+related:
+  - 'Consanguinity'
+  - 'Inbreeding'
+  - 'Admixed'
+  - 'Non-Pure'
+why_we_care:
+  '"Pure" and "non-pure" perpetuate the false belief that certain groups were isolated from others. "Racial purity", rooted in eugenics, was invented as a way to elevate a certain view of "whiteness" that explicitly plants the seed of superiority where it did not exist before. For example, Hitler’s Germany centred on the false belief of a pure "Aryan" race.
+
+
+  Such language misconstrues the facts of biology and population genetics, and reinforces racial hierarchies. The concepts were rooted in a white supremacist agenda to enslave people. Subsequently, eugenics fortified the racialised narratives. The persistent use of the terms reinforce their related ideologies.
+
+
+  The persistence of systemic racism and its ideological underpinnings reinforce misconceptions about human population genetics, which limits our ability to make accurate predictions and inferences about underlying disease risks and protective health factors.'
+alternatives:
+  - "Shift the focus to 'isolated populations' or 'founder populations' which have genetic signatures of bottlenecks (i.e., long stretches of homozygosity). These designations may be informative because the concept of genetic isolation is consistent with observable patterns in the DNA that support the theory.
+
+
+    A lot of the thinking behind concepts like 'pure' and 'non-pure' stem from the mixing of different genetic backgrounds, and this can have links to consanguinity and inbreeding. See those entries for further information."
+context:
+  "In a genomics context this term is not condoned by the genomics community. It was historically used to identify someone who was believed to be of homogenous ancestry. 'Pure' and 'non-pure' are also connected to eugenics - the pseudo-science that aimed to 'improve' human genetics by eliminating certain traits and races. In the UK, the history of eugenics is connected to Francis Galton's racial taxonomy."
+debate:
+  "'Non-pure' and 'pure' can be used to describe 'pure' races in the context of eugenics and practices aimed at 'fine tuning' genes based on desired racial hierarchy. These concepts still to this day obscure our understanding of ancestry. The belief in 'non-pure' and 'pure' ancestry suggests a time when individuals did not move around and were separated into neat continental groups.The method of sampling discrete locations across the world (e.g., 1KG sampled in 26 locations) reinforces the idea that 'populations' are genetically homogeneous across entire continents."
+resources:
+  - "[There's no such thing as a 'pure' European—or anyone else](https://www.science.org/content/article/theres-no-such-thing-pure-european-or-anyone-else) by Ann Gibbons (2017)"

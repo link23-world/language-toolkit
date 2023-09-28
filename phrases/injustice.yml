@@ -1,0 +1,17 @@
+name: 'Injustice'
+status: 'green'
+definition:
+  'Injustice refers to the unequal distribution of wealth, good health, education, etc. The fact that racial minorities receive a lower quality of care because of discrimination stems from a historically unjust healthcare system.'
+related:
+  - 'Inclusion'
+why_we_care:
+  'It is important to pay attention to historic and present injustices when engaging with participants and patients. Injustice relates to the ethical use of genomes and has shaped the way different communities view the use of bodily material, bio-banking, and notions of the afterlife.'
+alternatives:
+  - ''
+context:
+  'In a clinical context, injustice is interconnected with class and racial struggles as these socio-political factors often determine individuals’ access to health care, education, housing and so on. Some patients, such as those from the Caribbean and Black communities, often refrain from participating in genetic studies on account of histories of medical racism and violence.'
+debate:
+  'Injustice is generally an accepted term. However, some people would argue that it is an injustice that a wealthy person has to pay extra for the same level of healthcare, whereas others would disagree on the basis that the wealthy person may have benefited from injustices elsewhere through a system that exploits people on low paid, zero hours contract work.'
+resources:
+  - "[Facing up to injustice in genome science](https://www.nature.com/articles/d41586-019-01166-x) by Giorgia Guglielmi (2019)"
+  - "[Race, Ethnicity, Culture, and Disparities in Health care](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1924616/) by Leonard E Egede (2006)"

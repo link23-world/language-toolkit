@@ -1,0 +1,17 @@
+name: 'Culture'
+status: 'green'
+definition:
+  'Culture refers to a broad range of behaviours, customs, beliefs, values and institutions of a group of people that share commonalities such as race, ethnicity, gender, religion, nationality, neighbourhood, etc.'
+related:
+  - 'Cultural Sensitivity and Competency'
+why_we_care:
+  "Knowledge of patients and participants' cultures is important. Cultural competency includes paying attention to how different cultures and communities view the use of bodily material, bio-banking, and notions of afterlife."
+alternatives:
+  - 'If you are sequencing people, ancestry is an appropriate alternative. Ethnicity is helpful when talking about things like religion.'
+context:
+  'In a clinical context, culture might refer to ancestry, consanguinity, genealogy, ethnicity, background and descent and can be used interchangeably in everyday life. It is therefore important to be precise. Note that these terms have different scientific meanings.'
+debate:
+  'Cultural is a somewhat vague word that refers to many things. We encourage people to use alternatives in order to be specific.'
+resources:
+  - "[Definitions of Cultural Competence](https://nccc.georgetown.edu/curricula/culturalcompetence.html) by Georgetown University"
+  - "[What is cultural competence?](https://www.sydney.edu.au/nccc/about-us/what-is-cultural-competence.html) by The University of Sydney"

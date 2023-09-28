@@ -1,0 +1,21 @@
+name: 'Black'
+status: 'amber'
+definition:
+  'In the UK and the US Black commonly refers to people of African populations and the African diaspora such as African American, Caribbean and South American. Blackness is predominately associated with people who have dark skin and therefore Indigenous or Aboriginal individuals may also identify as Black. However, in the UK in particular, Black may also refer to a lived experience and cultural political identity and not solely appearance.'
+related:
+  - 'Intersectionality'
+  - 'Lived Experience'
+why_we_care:
+  'Due to the contextual and social construction of Race, Blackness is not a reliable proxy of African Ancestry. However, due to the disproportionate number of samples from individuals with European ancestry compared to those from other ancestries such as African, outcomes of genomic research may be unequitable and rare diseases under diagnosed. Black may be used as one way to engage those who have African ancestry in genomic research and its clinical applications in very specific situations.'
+alternatives:
+  - 'Be very aware of what exactly you mean in a genomics context when you say the word ‘Black’. If you are talking about Ancestry, be specific about the Ancestry group you are talking to, and which racial group could be more likely to have genomes from that ancestry. Some people like to capitalise the word Black when referring to the racial category. Always check with the group involved.'
+context:
+  "In a genomics context Black is often not a useful category in genomics, because it does not tell you much about someone's ancestry. You can identify African ancestry in a genome, but not how that person might identify. Black people can vary hugely in the proportion of African ancestry in their genome and we often would not be able to tell from a genome whether a person would identify as Black, mixed race, white or other.
+
+
+  In a clinical context Those who self identify or are assumed to be Black have been shown to experience poorer health outcomes and increased discrimination. Bias associated with Blackness is a significant contributor to racism in healthcare."
+debate:
+  "Black can be used for a patient or participant's race. Importantly, African ancestry and Blackness do not always equal one another, therefore you cannot describe a genome as Black. Black people can also be mixed race, although they might identify as Black due to the way they are socially perceived, and researchers should be careful with assigning racial identities."
+resources:
+  - "[Who's 'Black Enough' For Reparations?](https://www.npr.org/2021/01/25/960378979/whos-black-enough-for-reparations?t=1639143943318) by NPR (2021)"
+  - "[Anti-Black Racism](https://www.huffingtonpost.co.uk/entry/anti-black-racism-uk_uk_5ed64992c5b6ce87e4781570)"

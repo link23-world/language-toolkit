@@ -1,0 +1,24 @@
+name: 'White'
+status: 'amber'
+definition:
+  'White usually refers to of recent European ancestry and diaspora. In census surveys, White is divided into multiple categories, which to some degree have a relation to fair skin. White usually refers to a race category. As such, racial groups have a socio-political context that puts them in relation to each other, and in the UK this is most true for whiteness.'
+related:
+  - 'Race'
+  - 'Caucasian'
+  - 'Black'
+  - 'Brown'
+why_we_care:
+  'White is an ethnic category according to the UK government. Race and ethnicity are often used interchangeably in the UK. At Genomics England, we distinguish between European ancestry and whiteness. European ancestry is concluded from sequencing whereas whiteness, a social category, can be self-reported and changes from context to context.'
+alternatives:
+  - 'This is not an accurate term in a genomics context. Be very aware of what exactly you mean in a genomics context when you say the word "White". If you are talking about Ancestry, be specific about the Ancestry group you are talking to, and which racial group could be more likely to have genomes from that ancestry. '
+context:
+  'In an everyday context, who is white is constantly changing and includes liminal groups such as Irish Travellers and Eastern Europeans, who nevertheless experience discrimination that does not normally come with whiteness. In the UK, white is a racial and ethnic category that also refers to a general status of privilege that comes structurally with whiteness: financial stability, housing, citizenship, health care, education etc.
+
+
+  In a genomics context white is different from European ancestry, the latter being a scientific category that is estimated with DNA analysis. There is no genome for white people, however, you can observe certain characteristics which often are read socially as white such as skin colour and hair texture.'
+debate:
+  'As a socio-political construct, whiteness is currently referenced as a racial category that is specific to time and geography. Race does not correspond to ancestry and therefore, whiteness does not equal European ancestry. Whiteness is commonly referenced as a structural privilege, which has impacts on biases in the healthcare system and other genomic factor e.g. who gets sequenced. In a UK context, there is confusion as to whether whiteness include people from areas like Eastern Europe as those nuanced ethnicities are not always captured on UK census and ethnicity statistical groupings. There are also lots of link to whiteness and other histories of immigration, which need to be individually evaluated.'
+resources:
+  - "[White privilege: what it is, what it means and why understanding it matters (theconversation.com)](https://theconversation.com/white-privilege-what-it-is-what-it-means-and-why-understanding-it-matters-166683)"
+  - "[List of ethnic groups](https://www.ethnicity-facts-figures.service.gov.uk/style-guide/ethnic-groups) by UK Government"
+  - "[Writing about ethnicity](https://www.ethnicity-facts-figures.service.gov.uk/style-guide/writing-about-ethnicity) by UK Government"

@@ -1,0 +1,23 @@
+name: 'Ethnicity'
+status: 'amber'
+definition:
+  "Ethnicity refers to a person's specific cultural, religious and social background. Ethnicity is not inferred genetically and is usually self-assigned."
+related:
+  - 'Race'
+  - 'Ancestry'
+why_we_care:
+  'Ethnicity is important to Genomics England because it can help create awareness around cultural sensitivity, as well as helping us to measure where health inequities can manifest. Information about ethnicity can help employees pay attention to how different cultures and communities view the use of bodily material, bio-banking, and notions of afterlife. Most importantly, ethnicity should not be confused with ancestry and race.'
+alternatives:
+  - 'Be very aware about what you are actually referring to when you are talking about ethnicity. Ethnicity relates to a specific cultural group. Everyone has an ethnicity and often are quite proud to speak about their background if asked in a sensitive and kind way.'
+context:
+  "In an everyday context ethnicity is used interchangeably with words such as background, race, culture and descent. While ethnicity and race are sometimes confounded in UK census surveys,they are different as seen in South Asian communities where Hinduism and Islam often determine people's sense of ethnicity.
+
+
+  In a clinical context ethnicity is helpful for understanding the needs of patients and participants."
+debate:
+  'Some clinicians and researchers confuse the terms ethnicity and race and ultimately conflate biology with environments, which leads scientists and clinicians to attribute differences in health to innate biology rather than to social inequality. Oftentimes, ethnicity is used instead of race, for instance in government surveys. Some researchers even claim that race does not exist because it cannot be traced in genomes.'
+resources:
+  - "[Genome-wide Association Studies in Ancestrally Diverse Populations: Opportunities, Methods, Pitfalls, and Recommendations](https://www.cell.com/cell/pdf/S0092-8674(19)31002-5.pdf) by Roseann E. Peterson et al. (2019)"
+  - "[Writing about ethnicity](https://www.ethnicity-facts-figures.service.gov.uk/style-guide/writing-about-ethnicity)"
+  - "[NHS Race and Health Observatory](https://www.nhsrho.org/wp-content/uploads/2021/11/NHS_RaceHealthObservatory_Terminology-consultation-report-NOV-21-1.pdf) by NHS (2021)"
+  - "[Too many scientists still say Caucasian](https://www.nature.com/articles/d41586-021-02288-x) by Alice Popejoy, 2021"

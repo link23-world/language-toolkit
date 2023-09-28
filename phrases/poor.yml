@@ -1,0 +1,18 @@
+name: 'Poor'
+status: 'amber'
+definition:
+  'The government distinguishes between people who are considered to live in poverty due to lack of financial resources and people who are regarded as deprived due to lack of any kind of resources. Poverty is defined based on income. Sometimes deprivation indexes are used as a marker for poverty in research studies.'
+related:
+  - 'Health Disparities'
+  - 'Injustice'
+why_we_care:
+  "In a similar way to health disparities, poverty has an impact on causes and worsening of a disease and is oftentimes hard to discern from variants when doing cross-root comparison. There is a history of tending to de-prioritise these in genomic analyses, but it's important to remember that the analyses carried out at Genomics England will be introduced back into a world where poverty greatly affects outcomes."
+alternatives:
+  - 'Be aware of the context. In some situations, it might be better to use health disparities.'
+context:
+  "In a clinical context poverty impacts a patient's health and must not be conflated with genetics. Outside of using this term to talk about people, this can also be used in relation to poor response from a trial/treatment or poor quality of a sample."
+debate:
+  "Poverty has been an important measure of welfare and health. Today, health disparities and deprivation are used instead of poverty because it captures a full picture of the socio-economic factors that impact an individual's health. For some researchers, 'disparities' is a bureaucratic government move to avoid dealing with poverty."
+resources:
+  - "[Health inequality greater than previously thought, report finds](https://www.theguardian.com/society/2020/feb/12/health-inequality-greater-than-previously-thought-report-finds) by Amelia Hill (2020)"
+  - "[How can we calculate levels of deprivation or poverty in the UK?](https://blog.ukdataservice.ac.uk/deprived-or-live-in-poverty-1/) by Neil Dymond-Green (2020)"

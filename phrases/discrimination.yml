@@ -1,0 +1,16 @@
+name: 'Discrimination'
+status: 'green'
+definition:
+  'Discrimination happens when a person is treated less favourably than others based on their gender, race, sexual orientation, age, disability, religion or other identifiable status. '
+related:
+  - 'Health Disparities'
+why_we_care:
+  'Genomics have been used to validate discriminatory views. Historically, ideas surrounding genetics have been used to further violent notions of racial categories, using IQ and skin pigment to label individuals. Genomics was used to prove differences between people in order to create hierarchies.'
+alternatives:
+  - ''
+context:
+  'In an everyday context discrimination can be bullying from teachers, fellow pupils and colleagues. Discrimination also happens on a level of health care and housing accessibility.'
+debate:
+  'Discrimination happens all the time everywhere, intentionally and inadvertently. However, some people do not believe that they exhibit discrimination in their behavioural patterns and are resistant to accepting that they should constantly be aware of their own biases. In genomics, it is difficult to distinguish between environmental factors and biological genetics, which can lead to discrimination.'
+resources:
+  - '[Why Skin Colour Matters In Healthcare](https://www.youtube.com/watch?v=BK4SLzA0cPk) by Ivan Beckley (2021)'

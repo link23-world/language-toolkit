@@ -1,0 +1,20 @@
+name: 'BIPOC'
+status: 'red'
+definition:
+  'BIPOC is an acronym for Black, Indigenous, and people of colour. The term is sometimes used in the USA but less so in the UK, especially as Indigenous groups are defined as those descended from the earliest inhabitants of a country before colonisation. The term is associated with a resistance towards structural racism and other forms of oppression in North America.'
+related:
+  - 'Black'
+  - 'White'
+  - 'East Asian'
+  - 'South Asian'
+  - 'BAME'
+why_we_care:
+  'We strive to be as precise as possible and use the specific ancestry if possible, instead of umbrella terms for minorities.'
+alternatives:
+  - "Be specific when referring to someone's race, ethnicity or ancestry. Current collective terms preferred are 'people of colour', 'historically marginalised groups', or 'racialised people'."
+context:
+  'In an everyday context especially in the USA, "people of colour" has referred to Black people, indigenous peoples and peoples from the Mexican borderland.Recently, to emphasise the specific systemic oppression facing Black and indigenous peoples, the two groups have been foregrounded in the term.'
+debate:
+  'NHS language surveys and Genomics England Maslansky surveys have shown that patients and participants often prefer specific identity labels instead of umbrella terms such as BAME, BME, BIPOC, people of colour, etc. At Genomics England, we encourage the use of precise categories and labels.'
+resources:
+  - '[Why BIPOC Fails](https://www.virginialawreview.org/articles/why-bipoc-fails/) by Meera E. Deo (2021)'

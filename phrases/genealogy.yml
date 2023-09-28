@@ -1,0 +1,17 @@
+name: 'Genealogy'
+status: 'green'
+definition:
+  "Genealogy refers to the study of someone's ancestors. It can relate to a person's familial lineage, for example, someone's family tree. Only a subset of an individual's closest genealogical ancestors are also their genetic ancestors. When talking about genomics and rare disease, we often refer to 'trios' and this can be conflated with genealogy."
+related:
+  - 'Pedigree'
+  - 'Ancestry'
+why_we_care:
+  "Since genealogy does not have a stable meaning, we encourage people to use 'pedigree' when determining specific inheritance patterns of rare diseases."
+alternatives:
+  - "When talking about genomics and rare disease, we often refer to 'trios' and this can be conflated with genealogy. Make sure that you are specific about the type of trio when conducting research for rare diseases."
+context:
+  'In an everyday context genealogy might refer to ancestry, consanguinity or genealogy and can be misused in everyday life. Note that these terms have different scientific meanings.'
+debate:
+  'We encourage people to use precise words and specify whether genealogy refers to lineage or ancestry.'
+resources:
+  - ''

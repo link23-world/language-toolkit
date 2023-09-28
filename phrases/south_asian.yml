@@ -1,0 +1,24 @@
+name: 'South Asian'
+status: 'amber'
+definition:
+  "South Asian refers to one of the ancestry populations used at Genomics England. This is very different to the grouping terminology to capture people from cultures in South Asia, which is vague and should be avoided if there are better alternatives. This is only acceptable to use when talking about a group of populations in the South Asian region for general Ancestry groupings. When talking about people, it is better to ask them how they prefer to be identified, and this will usually relate to specific geographical markers as opposed to broader groupings like 'South Asia'."
+related:
+  - 'ESEA'
+  - 'Ancestry'
+  - 'East Asian'
+  - 'Race'
+  - 'Brown'
+why_we_care:
+  "It is important to keep in mind the differences between a racial and ethnic category such as South Asian and the ancestral category of East Asian. South Asian does not always correspond to East Asian ancestry. Note that from both a sociological and genomics context in the UK, the term 'South Asia' is wrongly used to refer only to people from the Indian subcontinent. This should be avoided. It would be like referring to the UK as 'North Europe'."
+alternatives:
+  - "Check in with patients and participants about the way they self-identify. Always better to use a geographical context when talking about a population. Identify what you are referring to. Is it culture, ethnicity, race or ancestry?"
+context:
+  "In an everyday context, 'brown' is sometimes used instead of South Asian, just like specific ethnic, religious and geographic identifiers. In Indian communities, 'Desi' is sometimes used to talk about people from the Indian Diaspora. These contexts are relevant as they can impact the care received by these groups. For example, counselling and mental health services are not culturally tailed to these cultural groups.
+
+
+  In a political context in the UK, South Asian, or Asian, often refers to people from India, Pakistan, Bangladesh and Nepal. This is a term that can refer to ethnicity, culture and race but not ancestry and genomics. Note that in the US, Asian is usually assumed to refer to what UK discourse would define as East Asian."
+debate:
+  'South Asian is a category of ancestry but can also refer to ethnicity and a specific cultural, religious and linguistic lived experience. South Asian thus questions our taxonomies of race, ancestry and ethnicity. South Asians are sometimes grouped as part of the ancestral super population "East Asian" even though samples from South Asian people might not always make it into this category due to the method of collecting reference sets and samples. Divisions of South and East Asian as many understand them may also tie to colonisation of the continent by the British Empire rather than any precise ethnic divisions.'
+resources:
+  - "[Barriers to counselling experienced by British South Asian women: A thematic analysis exploration](https://onlinelibrary.wiley.com/doi/abs/10.1002/capr.12076) by Naomi Moller et al. (2016)"
+  - "[The Mental Health Status of South Asian Women in Britain: A Review of the UK Literature](https://journals.sagepub.com/doi/10.1177/097133360501700207) by Aradhana S Anand and Raymond Cochrane (2005)"

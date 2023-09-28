@@ -1,0 +1,23 @@
+name: 'Global North'
+status: 'red'
+definition:
+  'Global North is a term that describes the wealthier nations, led by Western Europe and the United States, which colonised large parts of the world. Global South is a term that describes nations that were or still are colonised by the Global North such as India, Indonesia, and Ghana. This is used more in discourses in the US than in the UK. '
+related:
+  - 'Global South'
+  - 'Decolonisation'
+  - 'Low- and Middle-Income Countries'
+  - 'High-Income Countries'
+why_we_care:
+  'The vast majority of our genome data comes from the Global North. This can lead to lower predictive accuracy and diagnostic yield in populations from the Global South. This can be a threat to increase the diversity in genomic data and may lead challenging health disparities in the near future.'
+alternatives:
+  - 'In 2016, the World Bank gave up using the terms altogether in favour of lower-, middle- and upper-income countries.'
+context:
+  'In an **everyday context** Global South has come to refer generally to economically disadvantaged areas and peoples. Global South can also be an umbrella term for colonial resistance.
+
+
+    In a **political context** Global North and South are critical terms that describe geographies and peoples who are either benefiting from or suffering under the current economic system of capitalism.'
+debate:
+  'It is helpful to be aware of the political connotations: Global North and Global South were terms born out of colonial resistance and to some extent, the Non-aligned movement of the Cold War.'
+resources:
+  - '[Researchers from global south under-represented in development research](https://www.nature.com/articles/d41586-021-02549-9) by Layal Liverpool (2021)'
+  - '[What/Where is the Global South?](https://globalsouthstudies.as.virginia.edu/what-is-global-south) by [Anne Garland Mahler](http://spanitalport.as.virginia.edu/people/agm7b)(2017)'

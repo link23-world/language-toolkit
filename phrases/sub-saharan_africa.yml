@@ -1,0 +1,17 @@
+name: 'Sub-Saharan Africa'
+status: 'amber'
+definition:
+  'Sub-Saharan Africa refers to all of Africa except the five predominantly Arab states of North Africa (Morocco, Algeria, Tunisia, Libya, Egypt) and the Sudan.'
+related:
+  - 'Decolonisation'
+why_we_care:
+  'The division of Africa due to colonisation resulted in arbitrary and political divisions of land. This means that genetic ancestry may not be reflected accurately when using relative recent geographical locations. We want to be as specific as possible when referring to regions of the world that are populated by certain groups. This lack of specificity fails to recognise its colonial roots.'
+alternatives:
+  - 'Refer to specific countries or compass points (Northern, Eastern, South, Western, Central). We need to recognise the colonial roots when using these terms, to understand how that impacts out genomic science.'
+context:
+  ''
+debate:
+  'There are many angles to this debate but they are largely routed in challenging the history of colonial powers drawing arbitrary geographical boundaries across the continent of Africa. Sub-Saharan Africa is felt to be by many, a similarly imprecise and arbitrary way to carve up the African continent, given that over 1 billion inhabitants of Africa do not live near the Sahara desert. If  “sub"  means “under" the Sahara Desert or "part of"/"partly" the Sahara Desert or “partially"/"nearly" the Sahara Desert, this is more/less an accurate way to describe countries or populations. Other critics of the term argue that it creates a further divide between African-led "sovereign" states as distinct from an Arab-led one, also other critics argue that it was a term that was particularly used to refer to regions during the spread of HIV/AIDS which brought this it substantial global stigma.'
+resources:
+  - "[The Economist - What is sub-Saharan Africa?](https://www.economist.com/the-economist-explains/2019/03/07/what-is-sub-saharan-africa)"
+  - "[HIV/AIDS and the construction of Sub-Saharan Africa: Heuristic lessons from the social sciences for policy](https://www.sciencedirect.com/science/article/pii/S0277953606005132)"

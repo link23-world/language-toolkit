@@ -1,0 +1,19 @@
+name: 'Inclusion'
+status: 'green'
+definition:
+  'Inclusion is the attempt to achieve representation of people who have been under-represented both in DNA databases and the research workforce historically.'
+related:
+  - 'Cultural Sensitivity and Competency'
+  - 'Equity'
+  - 'Data Diversity'
+  - 'JEDI'
+why_we_care:
+  'Scientists need to acknowledge the historical violence of the field when engaging with inclusion work. Inclusion requires cultural sensitivity to the fact that some communities, in particular Caribbean and African, have been "guinea pigs" of science.'
+alternatives:
+  - ''
+context:
+  'In a clinical context, inclusion should be practised and communicated with much attention to the communities involved. In surveys, Black and brown people often point to moments in history as reasons to be cautious about sharing genetic information. This distrust comes from real experience and must be acknowledged in order for them to feel heard and open to considering sharing their genes for research. For more information, see the Genomics England Maslansky survey.'
+debate:
+  'Just like cultural sensitivity, inclusion comes with a lot of challenges due to historic injustices within the field of medicine. Patients and participants from Black communities are particularly sceptical of overly scientific language and the stated motives of scientific research. Therefore, inclusion should be discussed with awareness of the distrust that many marginalised people feel towards genetic information.'
+resources:
+  - '[Diversity and inclusion for the All of Us research program: A scoping review](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0234962) by Brandy M. Mapes et. al. (2020)'
