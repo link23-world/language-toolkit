@@ -1,10 +1,9 @@
-# install.packages("here")
-# install.packages("yaml")
-# install.packages("jsonlite")
+require(yaml)
+require(jsonlite)
 
-files = list.files(path = here::here("phrases"), "^[a-zA-Z].*\\.yml")
+files = list.files(path = "phrases", "^[a-zA-Z].*\\.yml")
 out = as.data.frame(t(vapply(files, function(f) {
-  file = yaml::read_yaml(here::here("phrases", f))
+  file = yaml::read_yaml(file.path("phrases", f))
 }, vector("list", 9L))))
 rownames(out) = NULL
 # clean up status
@@ -22,7 +21,7 @@ out$status = lapply(out$status, function(x) {
   }
 })
 
-tmp_file <- here::here("phrases/all.txt")
+tmp_file <- file.path("phrases", "all.txt")
 
 jsonlite::write_json(
   x = out,
@@ -37,7 +36,7 @@ x[1] <- "loadPhrases = function () {"
 x[length(x) + 1] <- "}"
 # fix unicode expressions and save
 write(gsub("\\\\", "\\", x, fixed = TRUE),
-      here::here("toolkit/src/phrases.js"))
+      file.path("toolkit", "src", "phrases.js"))
 
 # remove txt save js
 file.remove(tmp_file)
