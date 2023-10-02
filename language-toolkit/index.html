@@ -57,52 +57,47 @@
 
     <main>
       <div class="container-fluid px-5" style="height: 85vh; max-height: 85vh">
-        <h1 class="pt-2 pb-0 mb-0" style="height: 5vh; max-height: 5vh">Lost in Translation: Language Toolkit for Genomic Data Diversity</h1>
-        <div class="row g-3 pt-3" style="height: 80vh; max-height: 80vh">
-          <div class="col-xl-5 col-sm-7">
-            <div class="row my-0 py-0 pb-2">
-                <div class="col-12 mx-auto">
-                    <div class="card h-100 shadow px-3 py-2 pb-1 m-0 bg-white rounded">
-                      <div class="card-title text-center">
-                        <h2> How to use this tool </h2>
-                      </div>
-                      <div class="card-text text-left m-0 p-0">
-                        <p class="m-0 p-0">
-                          This language guide is for anyone talking about words related to race, ethnicity, ancestry in a genomic and data science context. It has been designed with a range of experts across genomics, clinical, community advocates, patient experience and academia to give you relevant context around using precise language so you can make an informed decision on which word to use.<br><br>
-                          Use the tool by scrolling through the table below and clicking on the phrase of interest. Phrases that are <span class="green">green</span> are considered generally accepted for use in the context defined. For <span class="amber">amber</span> phrases, the contexts in which the word is used is often confused. Read the debate section. Finally, <span class="red">red</span> phrases should be avoided and we provide more appropriate alternatives to help you do so.
-                          <br><br>
-                          You can learn more about the development of the tool and find other resources in the 'About' pages listed above.
-                        </p>
-                      </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row my-0 pb-4">
-              <div class="col-12 mx-auto overflow-none">
-                <div class="card card-body h-100 shadow px-4 pt-2 bg-white rounded overflow-none">
-                  <div class="pt-0 mt-0 pb-3">
-                    <span>Status</span>
-
-                    <select class="selectpicker" data-width="fit" id="filter-cond">
-                      <option value="in">is</option>
-                      <option value="nin">is not</option>
-                    </select>
-
-                    <select class="selectpicker" multiple data-width="fit" id="filter-status" title="Select status to filter">
-                      <option value="green">Green</option>
-                      <option value="amber">Amber</option>
-                      <option value="red">Red</option>
-                      <option value="grey">Grey</option>
-                    </select>
-
-                    <button type="button" class="btn btn-light" id="filter-clear">Clear Filter</button>
-                  </div>
-                  <div id="toolkitTable"></div>
+        <h1 class="my-4" style="height: 5vh; max-height: 5vh">Lost in Translation: Language Toolkit for Genomic Data Diversity</h1>
+        <div class="row" style="height: 80vh; max-height: 80vh">
+          <div class="col-5 d-flex flex-column h-100 px-3">
+            <div class="row pb-1">
+              <div class="card px-4 py-2 shadow rounded overflow-none">
+                <div class="card-text m-0 p-0">
+                  <h2 class="text-center"> How to use this tool </h2>
+                  <p class="m-0 p-0">
+                    This toolkit is intended to help people use the optimal language to be sensitive when talking about genomics. It has been designed with a range of experts across genomics, clinical, community advocates, patient experience and academia to give you relevant context around using precise language so you can make informed decisions when choosing phrases.
+                    <br><br>
+                    You can learn more about the development of the tool and the traffic light system in the 'About' pages listed above.
+                  </p>
                 </div>
               </div>
             </div>
+
+            <div class="row h-100 d-flex flex-row card shadow bg-white rounded pb-0" style="flex: 1; overflow-y: auto; overflow-x: hidden; min-height: 0px;">
+                <div class="card-body text-left">
+                  <div class="card-text">
+                    <span>Status</span>
+
+                        <select class="selectpicker" data-width="fit" id="filter-cond">
+                          <option value="in">is</option>
+                          <option value="nin">is not</option>
+                        </select>
+
+                        <select class="selectpicker" multiple data-width="fit" id="filter-status" title="Select status to filter">
+                          <option value="green">Green</option>
+                          <option value="amber">Amber</option>
+                          <option value="red">Red</option>
+                          <option value="grey">Grey</option>
+                        </select>
+
+                        <button type="button" class="btn btn-light" id="filter-clear">Clear Filter</button>
+
+                        <div id="toolkitTable"></div>
+                </div>
+              </div>
           </div>
-          <div class="col-xl-7 col-sm-5">
+        </div>
+          <div class="col-7 d-flex flex-column h-100 px-3">
           <div class="row pb-1">
             <div class="card px-4 py-2 shadow rounded overflow-none phrase-card">
               <div class="card-text text-white m-0 p-0">
@@ -115,8 +110,8 @@
               </div>
             </div>
           </div>
-          <div class="row">
-            <div class="card px-4 pb-0 shadow rounded overflow-auto" style="max-height: 73vh; height: 73vh;">
+
+          <div class="row h-100 d-flex flex-row card shadow bg-white rounded pb-0" style="flex: 1; overflow-y: auto; overflow-x: hidden; min-height: 0px;">
               <div class="card-body text-left">
                 <div class="card-text">
                   <div id="phrase_definition">
@@ -142,7 +137,6 @@
                   </div>
               </div>
             </div>
-          </div>
         </div>
       </div>
       </div>
@@ -150,11 +144,11 @@
     </main>
     <div></div>
 
-    <footer class="mt-3 border-top bg-light p-2" style="font-size: 12px;">
+    <footer class="border-top bg-light p-2" style="font-size: 12px;">
       <div class="container-fluid px-5 py-0 my-0">
         <div class="row p-0 m-0">
-          <p class="col-7 text-muted p-0 m-0 align-middle" style="font-size: 12px;">All content in this toolkit is licenced under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> and the underlying source code is licenced under <a href="https://www.apache.org/licenses/LICENSE-2.0">Apache 2.0</a>, © 2023 link23.</p>
-          <ul class="col-5 nav justify-content-end">
+          <p class="col-9 text-muted p-0 m-0 align-left" style="font-size: 12px;">All content in this toolkit is licenced under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> and the underlying source code is licenced under <a href="https://www.apache.org/licenses/LICENSE-2.0">Apache 2.0</a>, © 2023 link23.</p>
+          <ul class="col-3 nav justify-content-end">
             <li class="nav-item"><a href="/language-toolkit/index.html" class="nav-link px-2 py-0 text-muted">Home</a></li>
             <li class="nav-item"><a href="/language-toolkit/contact.html" class="nav-link px-2 py-0 text-muted">Contact</a></li>
             <li class="nav-item"><a href="https://github.com/link23-world/language-toolkit" class="nav-link px-2 py-0 text-muted">Code</a></li>
