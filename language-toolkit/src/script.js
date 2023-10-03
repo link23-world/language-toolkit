@@ -13,6 +13,8 @@ d3.select("#toolkitTable").select("tbody")
 var table = new Tabulator("#toolkitTable", {
   data: phrases,
   layout: "fitDataStretch",
+  height: "100%",
+  minHeight: "0",
   headerFilter:"input",
   columns: [
     { title: "Name", field: "name" },

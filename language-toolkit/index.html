@@ -73,27 +73,25 @@
               </div>
             </div>
 
-            <div class="row h-100 d-flex flex-row card shadow bg-white rounded pb-0" style="flex: 1; overflow-y: auto; overflow-x: hidden; min-height: 0px;">
-                <div class="card-body text-left">
-                  <div class="card-text">
-                    <span>Status</span>
+            <div class="row h-100 card shadow bg-white rounded pb-0" style="overflow: hidden;">
+              <div class="text-left py-2 my-2">
+              <span>Status</span>
+                <select class="selectpicker" data-width="fit" id="filter-cond">
+                  <option value="in">is</option>
+                  <option value="nin">is not</option>
+                </select>
 
-                        <select class="selectpicker" data-width="fit" id="filter-cond">
-                          <option value="in">is</option>
-                          <option value="nin">is not</option>
-                        </select>
+                <select class="selectpicker" multiple data-width="fit" id="filter-status" title="Select status to filter">
+                  <option value="green">Green</option>
+                  <option value="amber">Amber</option>
+                  <option value="red">Red</option>
+                  <option value="grey">Grey</option>
+                </select>
 
-                        <select class="selectpicker" multiple data-width="fit" id="filter-status" title="Select status to filter">
-                          <option value="green">Green</option>
-                          <option value="amber">Amber</option>
-                          <option value="red">Red</option>
-                          <option value="grey">Grey</option>
-                        </select>
-
-                        <button type="button" class="btn btn-light" id="filter-clear">Clear Filter</button>
-
-                        <div id="toolkitTable"></div>
-                </div>
+                <button type="button" class="btn btn-light" id="filter-clear">Clear Filter</button>
+              </div>
+              <div style="flex: 1; min-height: 0px; overflow: hidden;">
+                <div id="toolkitTable"></div>
               </div>
           </div>
         </div>
