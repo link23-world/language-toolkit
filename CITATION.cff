@@ -3,7 +3,7 @@ message: "If you use any code or other content from this repository, please cite
 authors:
 - family-names: "link23"
 title: "Lost in Translation: Language Toolkit for Genomic Data Diversity"
-version: "LATEST VERSION"
+version: 0.1.5
 doi: "[ZENODO DOI]"
 date-released: "DATE RELEASED"
 url: "https://github.com/link23-world/language-toolkit"
