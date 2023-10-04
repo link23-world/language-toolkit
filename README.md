@@ -26,3 +26,28 @@ See our [contribution guidelines](/CONTRIBUTING.md) for details about how we cre
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+### Other Contributors
+
+The following people (who don't have GitHub accounts) also contributed:
+
+- Sam Tallman 👀
+- Ed Hollox 👀
+- Dan Rhodes 👀
+- Mahantesh Biradar 👀
+- Anna Need 👀
+- Amanda Pichini 👀
+- Lyra Nightingale 👀
+- Aman Ali 👀
+- Furaha Asani 👀
+- Sasha Henriques 👀
+- Salim Shaikh 👀
+- Hafsha Dadabhai Shaikh 👀
+- Summaiya 👀
+- Ismael Kherroubi Garcia 👀
+- Semine Long-Callesen 🔧
+- Alice Popejoy 🔧
+- Ewan Birney 🔧
+- Matteo Fumagalli 🔧
+- Melanie Martin 🔧
+- Sophia Luu 🔧📆👀
