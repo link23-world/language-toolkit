@@ -1,7 +1,7 @@
 ---
 name: Update contributors
-about: Use this template to add/edit contributor(s) to the toolbox.
-title: "Update <contributor_github_names>"
+about: Use this template to add/edit contributor(s) to this repository.
+title: "Update {contributor_github_names}"
 labels: update contributors
 assignees: ''
 
