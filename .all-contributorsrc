@@ -1,4 +1,25 @@
 {
   "projectName": "language-toolkit",
-  "projectOwner": "link23-world"
+  "projectOwner": "link23-world",
+  "files": [
+    "README.md"
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "RaphaelGEL",
+      "name": "Raphael Sonabend",
+      "avatar_url": "https://avatars.githubusercontent.com/u/138118852?v=4",
+      "profile": "https://www.link23.world/",
+      "contributions": [
+        "business",
+        "code",
+        "doc",
+        "ideas",
+        "maintenance"
+      ]
+    }
+  ]
 }
