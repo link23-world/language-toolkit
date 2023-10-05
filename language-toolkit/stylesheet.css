@@ -1,3 +1,11 @@
+/* ------------------------------------ */
+/*              VARIABLES               */
+/* ------------------------------------ */
+:root {
+  --main-version: "0.1.2";
+}
+/* ------------------------------------ */
+
 p {
   font-size: 16px;
 }
@@ -56,4 +64,56 @@ main {
 
 html, body {
   overflow: hidden;
+}
+
+.content {
+  height: 78vh;
+  max-height: 78vh;
+}
+
+.content-title {
+  height: 5vh;
+  max-height: 5vh;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.container-main {
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+
+.btn-version:after {
+  content: var(--main-version);
+  width: 0;
+  height: 0;
+  padding: 0.2rem 0.4rem;
+  background-color: var(--bs-secondary);
+  color: white;
+  font-weight: bold;
+  border-radius: 10%;
+}
+
+.nav-link:hover {
+  color: black !important;
+}
+
+.dropdown-item.active {
+  background-color: var(--bs-secondary);
+}
+
+.lst-faq {
+  list-style: none;
+}
+
+.lst-faq:before {
+  content:"❓";
+  font-size: 36px;
+  vertical-align: middle;
+  line-height: 36px;
+  margin-left: -2.5rem;
+}
+
+.faq-active {
+  transform: rotate(180deg);
 }
