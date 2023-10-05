@@ -21,6 +21,13 @@ See our [contribution guidelines](/CONTRIBUTING.md) for details about how we cre
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.link23.world/"><img src="https://avatars.githubusercontent.com/u/138118852?v=4?s=100" width="100px;" alt="Raphael Sonabend"/><br /><sub><b>Raphael Sonabend</b></sub></a><br /><a href="#business-RaphaelGEL" title="Business development">💼</a> <a href="#code-RaphaelGEL" title="Code">💻</a> <a href="#doc-RaphaelGEL" title="Documentation">📖</a> <a href="#ideas-RaphaelGEL" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-RaphaelGEL" title="Maintenance">🚧</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
