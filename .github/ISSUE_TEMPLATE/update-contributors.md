@@ -1,7 +1,7 @@
 ---
 name: Update contributors
 about: Use this template to add/edit contributor(s) to this repository.
-title: "Update {contributor_github_names}"
+title: "Update contributors: {contributor_github_names}"
 labels: update contributors
 assignees: ''
 
@@ -13,7 +13,7 @@ To add multiple contributors, copy/paste the template line "please add @{usernam
 ___
 
 @all-contributors
-please add @{username} for ally/bug/business/code/content/data/doc/design/eventOrganizing/ideas/maintenance/mentoring/projectManagement/question/research/review/security/tool/translation/talk.
+please add @{username} for ally,bug,business,code,content,data,doc,design,eventOrganizing,ideas,maintenance,mentoring,projectManagement,question,research,review,security,tool,translation,talk.
 
 ___
 
