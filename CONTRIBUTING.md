@@ -16,8 +16,13 @@ If you need support in using GitHub, contributing to this repository, or anythin
 
 ## Recognising Contributions
 
-Please feel free to add yourself as a contributor for any contributions you make to this repository, we use the all-contributors bot, you can find the [instructions here](https://allcontributors.org/docs/en/bot/usage).
-We use a slightly modified version of the [All Contributors](https://allcontributors.org/docs/en/emoji-key) framework to recognise all contributions as follows:
+Please feel free to add yourself as a contributor for any contributions you make to this repository. We recognise all contributions using a modified version of the [All Contributors](https://allcontributors.org/docs/en/emoji-key) framework, printed below.
+
+To add yourself, paste the template below as a comment in an issue or pull request (or if there isn't one open then open a new issue with the 'Update Contributors' template), replacing {username} with your GitHub username and deleting contributions as necessary:
+
+> @all-contributors please add @{username} for ally,bug,business,code,content,data,doc,design,eventOrganizing,ideas,maintenance,mentoring,projectManagement,question,research,review,security,tool,translation,talk.
+
+If you're unsure about your contributions or need help using the bot, then please reach out for [support](#support)!.
 
 | Emoji/Type           | Represents             | Comments                                                                                                                                                                           |
 |----------------------|------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
