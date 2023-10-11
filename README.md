@@ -25,6 +25,7 @@ See our [contribution guidelines](/CONTRIBUTING.md) for details about how we cre
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://www.link23.world/"><img src="https://avatars.githubusercontent.com/u/138118852?v=4?s=100" width="100px;" alt="Raphael Sonabend"/><br /><sub><b>Raphael Sonabend</b></sub></a><br /><a href="#business-RaphaelGEL" title="Business development">💼</a> <a href="#code-RaphaelGEL" title="Code">💻</a> <a href="#doc-RaphaelGEL" title="Documentation">📖</a> <a href="#ideas-RaphaelGEL" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-RaphaelGEL" title="Maintenance">🚧</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/drhodesbrc"><img src="https://avatars.githubusercontent.com/u/14894770?v=4?s=100" width="100px;" alt="drhodesbrc"/><br /><sub><b>drhodesbrc</b></sub></a><br /><a href="#review-drhodesbrc" title="Reviewed Pull Requests">👀</a></td>
     </tr>
   </tbody>
 </table>
