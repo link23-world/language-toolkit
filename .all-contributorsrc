@@ -1,6 +1,7 @@
 {
   "projectName": "language-toolkit",
   "projectOwner": "link23-world",
+  "contributorsSortAlphabetically": true,
   "files": [
     "README.md"
   ],
