@@ -7,8 +7,8 @@
 
 ## Licensing
 
-All repositories in [link23-world](https://github.com/link23-world) are [licensed](/LICENSE.md) under [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) for code, or [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) for all other content.
-This means you can adapt and redistribute all code and other content however you like for free, as long as you cite this repository and make clear changes that have been made.
+All repositories in [link23-world](https://github.com/link23-world) are [licensed](/LICENSE.md) under [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) for code, [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/) for branding, or [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) for all other content.
+This means you **cannot make changes to link23 branding** but can adapt and redistribute all code and other content however you like for free, as long as you cite this repository and make clear changes that have been made.
 
 ## Contributing to this repository
 
