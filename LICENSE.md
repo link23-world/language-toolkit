@@ -2,9 +2,15 @@
 
 link23 makes all of their materials publicly available under open source licenses.
 
-Software are made available under an [Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0).
-All other content is made available under a [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
-Both licenses are permissive which means you can adapt and redistribute all code and other content however you like for free, as long as you cite this repository and make clear if you have modified the original code.
+link23 branding, including logos, is made available under a [CC BY-ND 4.0 licence](https://creativecommons.org/licenses/by-nd/4.0/).
+This means you cannot make any changes to our branding without explicit written permission from one of the link23 leads.
+You can use and share our branding as long as you make clear where you copied it from, and no use of our branding consitutes an endorsement from link23 or Genomics England.
+
+Software are made available under an [Apache 2.0 licence](https://www.apache.org/licenses/LICENSE-2.0).
+
+All other content is made available under a [CC BY 4.0 licence](https://creativecommons.org/licenses/by/4.0/).
+
+Apache 2.0 and CC BY 4.0 permissive licences, which means you can adapt and redistribute all code and other content however you like for free, as long as you cite this repository and make clear if you have modified the original code.
 
 We recommend reading [The Turing Way licensing chapter](https://the-turing-way.netlify.app/reproducible-research/licensing.html) to learn more about licensing.
 
@@ -189,6 +195,29 @@ Below is a copy of the Apache 2.0 licence.
       of your accepting any such warranty or additional liability.
 
 
+
+## Branding
+
+Branding in this repository is made available under the Creative Commons Attribution No Derivatives license. The following is a human-readable summary of (and not a substitute for) the [full legal text of the CC BY-ND 4.0 license](https://creativecommons.org/licenses/by-nd/4.0/legalcode.en).
+
+> You are free to:
+>
+>    Share — copy and redistribute the material in any medium or format for any purpose, even commercially.
+>    The licensor cannot revoke these freedoms as long as you follow the license terms.
+>
+> Under the following terms:
+>
+>    Attribution - You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+>    NoDerivatives - If you remix, transform, or build upon the material, you may not distribute the modified material.
+>    No additional restrictions - You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+>
+> Notices:
+>
+> You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
+>
+> No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+
+
 ## All other content
 
 All other content in this repository is made available under the Creative Commons Attribution license. The following is a human-readable summary of (and not a substitute for) the [full legal text of the CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/legalcode).
@@ -206,7 +235,6 @@ All other content in this repository is made available under the Creative Common
 >
 > Notices:
 >
-> You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation .
+> You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
 >
 > No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
-
