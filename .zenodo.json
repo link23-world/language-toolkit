@@ -3,20 +3,5 @@
         {
             "name": "The link23 Community"
         }
-    ],
-
-    "keywords": [
-      "genomics",
-      "genetics",
-      "health equity",
-      "genetic equity",
-      "tools",
-      "guides",
-      "ethics",
-      "community"
-    ],
-
-    "communities": [
-        {"identifier": "link23"}
     ]
 }
