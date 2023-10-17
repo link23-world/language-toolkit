@@ -41,7 +41,6 @@ The following people (who don't have GitHub accounts) also contributed:
 
 - Sam Tallman 👀
 - Ed Hollox 👀
-- Dan Rhodes 👀
 - Mahantesh Biradar 👀
 - Anna Need 👀
 - Amanda Pichini 👀
@@ -59,3 +58,4 @@ The following people (who don't have GitHub accounts) also contributed:
 - Matteo Fumagalli 🔧
 - Melanie Martin 🔧
 - Sophia Luu 🔧📆👀
+- Maxine Mackintosh 💼📖🔧📆👀
