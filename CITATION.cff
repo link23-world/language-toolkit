@@ -1,9 +1,8 @@
-cff-version: 1.2.0
+cff-version: 1.1.0
 message: "If you use any code or other content from this repository, please cite it as below."
 authors:
-- family-names: "link23"
+- family-names: link23
 title: "Lost in Translation: Language Toolkit for Genomic Data Diversity"
-version: 0.1.5
-doi: "[ZENODO DOI]"
-date-released: "DATE RELEASED"
-url: "https://github.com/link23-world/language-toolkit"
+version: 0.1.2
+date-released: 2023-10-17
+                         
