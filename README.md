@@ -1,10 +1,14 @@
 # Lost in Translation: Language Toolkit for Genomic Data Diversity
 
+[![Static Badge](https://img.shields.io/badge/link23_Tool-Prototype-purple?style=plastic&label=link23%20Tool&color=%2326913d)](https://link23-world.github.io/language-toolkit/)
+
 [![All Contributors](https://img.shields.io/github/all-contributors/link23-world/language-toolkit?color=ee8449&style=flat-square)](#contributors)
 [![DOI](https://zenodo.org/badge/697706578.svg)](https://zenodo.org/doi/10.5281/zenodo.10013320)
 
 ## About this repository
 
+This toolkit is intended to help people use the optimal language to be sensitive when talking about genomics.
+It has been designed with a range of experts across genomics, clinical, community advocates, patient experience and academia to give you relevant context around using precise language so you can make informed decisions when choosing phrases. 
 
 ## Licensing
 
