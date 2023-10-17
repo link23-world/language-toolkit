@@ -38,7 +38,7 @@ If you have an idea how the phrase should be classified, please fill in this sec
 2. 
 3. 
 
-### Phrase with classification
+### Phrase without classification
 
 If you do not know how it should be classified then please fill in this section:
 
