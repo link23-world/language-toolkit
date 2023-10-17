@@ -1,6 +1,7 @@
 # Lost in Translation: Language Toolkit for Genomic Data Diversity
 
 [![All Contributors](https://img.shields.io/github/all-contributors/link23-world/language-toolkit?color=ee8449&style=flat-square)](#contributors)
+[![DOI](https://zenodo.org/badge/697706578.svg)](https://zenodo.org/doi/10.5281/zenodo.10013320)
 
 ## About this repository
 
