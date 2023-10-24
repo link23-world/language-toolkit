@@ -85,13 +85,13 @@ printPhrase = function (phrase) {
             if (related !== undefined) {
               switch (getStatus(related.status[0], false, null, false)) {
                 case "Generally accepted":
-                  return ("definition related green");
+                  return ("definition related text-success");
                 case "Be aware of context":
-                  return ("definition related amber");
+                  return ("definition related text-secondary");
                 case "Avoid this term":
-                  return ("definition related red");
+                  return ("definition related text-danger");
                 default:
-                  return ("definition related gray");
+                  return ("definition related text-muted");
               }
             } else {
               return ("definition");
@@ -115,29 +115,32 @@ getStatus = function (col, longForm = true, cell = null, colPhrase = true) {
   switch (col) {
     case "green":
       if (cell !== null) {
-        cell.getElement().style.backgroundColor = "#3cb371";
+        cell.getElement().style.backgroundColor = "#26913d";
+        cell.getElement().style.color = "white";
       }
-      colPhrase && $(".phrase-card").css("background-color", "#3cb371");
+      colPhrase && $(".phrase-card").css("background-color", "#26913d");
       return longForm ? "✅ Generally accepted for use in the context defined" :
         "Generally accepted";
     case "amber":
       if (cell !== null) {
-        cell.getElement().style.backgroundColor = "#ffa500";
+        cell.getElement().style.backgroundColor = "#FFB300";
+        cell.getElement().style.color = "white";
       }
-      colPhrase && $(".phrase-card").css("background-color", "#ffa500");
+      colPhrase && $(".phrase-card").css("background-color", "#FFB300");
       return longForm ? "⚠️ Be aware that there are multiple definitions based on different contexts" :
         "Be aware of context";
     case "red":
       if (cell !== null) {
-        cell.getElement().style.backgroundColor = "#ff0547";
+        cell.getElement().style.backgroundColor = "#DF007D";
         cell.getElement().style.color = "white";
       }
-      colPhrase && $(".phrase-card").css("background-color", "#ff0547");
+      colPhrase && $(".phrase-card").css("background-color", "#DF007D");
       return longForm ? "❌ This term should be avoided and there are better alternatives" :
         "Avoid this term";
     case "grey":
       if (cell !== null) {
         cell.getElement().style.backgroundColor = "gray";
+        cell.getElement().style.color = "white";
       }
       colPhrase && $(".phrase-card").css("background-color", "gray");
       return longForm ? "❓ This entry is unfinished and is still pending classification" :
