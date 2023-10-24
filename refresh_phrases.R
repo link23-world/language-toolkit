@@ -6,6 +6,11 @@ out = as.data.frame(t(vapply(files, function(f) {
   file = yaml::read_yaml(file.path("phrases", f))
 }, vector("list", 9L))))
 rownames(out) = NULL
+
+if( !identical(colnames(out), c("name", "status", "definition", "related", "why_we_care", "alternatives", "context", "debate", "resources"))) {
+  stop("yml fields mismatch")
+}
+
 # clean up status
 out$status = lapply(out$status, function(x) {
   if (grepl("(?i)(orange|amber)", x)) {
@@ -20,6 +25,12 @@ out$status = lapply(out$status, function(x) {
     stop(sprintf("Status value '%s' unknown.", x))
   }
 })
+
+jsonlite::write_json(
+  x = out,
+  path = file.path("phrases", "all_phrases.json"),
+  pretty = TRUE
+)
 
 tmp_file <- file.path("phrases", "all.txt")
 
