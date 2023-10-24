@@ -9,7 +9,7 @@
     <!-- Bootstrap -->
     <script src="bootstrap-5.3.2/dist/js/bootstrap.bundle.min.js"></script>
     <!-- JQuery -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.css" />
     <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.js"></script>
     <!-- Toolkit phrases -->
@@ -37,7 +37,7 @@
         <div class="container-fluid px-5">
           <a class="navbar-brand me-1" href="/language-toolkit/index.html">Lost in Translation Toolkit</a>
           <a class="btn-version me-5" href="https://github.com/link23-world/language-toolkit/blob/main/NEWS.md"></a>
-          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbarSupportedContent" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
 
@@ -72,10 +72,10 @@
     </header>
 
     <main>
-      <div class="container-fluid container-main content px-5">
-        <h1 class="py-3">Lost in Translation: Language Toolkit for Genomic Data Diversity</h1>
+      <div class="container-fluid container-main content">
+        <h1 class="content-title">Lost in Translation: Language Toolkit for Genomic Data Diversity</h1>
         <div class="row content">
-          <div class="col-5 d-flex flex-column h-100 px-3">
+          <div class="col-12 col-sm-5 d-flex flex-column h-100 px-3">
             <div class="row pb-1">
               <div class="card px-4 py-2 shadow rounded overflow-none">
                 <div class="card-text m-0 p-0">
@@ -89,7 +89,7 @@
               </div>
             </div>
 
-            <div class="row h-100 card shadow bg-white rounded pb-0" style="overflow: hidden;">
+            <div class="row h-100 card shadow bg-white rounded mb-2" style="overflow: hidden;">
               <div class="text-left py-2 my-2">
               <span>Status</span>
                 <select class="selectpicker" data-width="fit" id="filter-cond">
@@ -97,26 +97,26 @@
                   <option value="nin">is not</option>
                 </select>
 
-                <select class="selectpicker" multiple data-width="fit" id="filter-status" title="Select status to filter">
+                <select class="selectpicker" multiple data-width="fit" id="filter-status" title="Select status">
                   <option value="green">Green</option>
                   <option value="amber">Amber</option>
                   <option value="red">Red</option>
                   <option value="grey">Grey</option>
                 </select>
 
-                <button type="button" class="btn btn-light" id="filter-clear">Clear Filter</button>
+                <button type="button" class="btn btn-light" id="filter-clear">Clear</button>
               </div>
               <div style="flex: 1; min-height: 0px; overflow: hidden;">
                 <div id="toolkitTable"></div>
               </div>
           </div>
         </div>
-          <div class="col-7 d-flex flex-column h-100 px-3">
+          <div class="col-12 col-sm-7 d-flex flex-column h-100 px-3">
           <div class="row pb-1">
             <div class="card px-4 py-2 shadow rounded overflow-none phrase-card">
               <div class="card-text text-white m-0 p-0">
                 <h2 id="phrase_name" class="m-0 p-0">
-                  <h2 class="definition phrase-title">Click a phrase on the left to learn more</h2>
+                  <h2 class="definition phrase-title">Click a phrase to learn more</h2>
                 </h2>
                 <div id="phrase_status" class="m-0 p-0">
                   <p class="definition">&nbsp;</p>
@@ -125,7 +125,7 @@
             </div>
           </div>
 
-          <div class="row h-100 d-flex flex-row card shadow bg-white rounded pb-0" style="flex: 1; overflow-y: auto; overflow-x: hidden; min-height: 0px;">
+          <div class="row h-100 d-flex flex-row card shadow bg-white rounded pb-0 mb-2" style="flex: 1; overflow-y: auto; overflow-x: hidden; min-height: 0px;">
               <div class="card-body text-left">
                 <div class="card-text">
                   <div id="phrase_definition">
@@ -156,20 +156,19 @@
       </div>
       </div>
     </main>
-    <div></div>
 
-    <footer class="border-top bg-light p-2 align-middle">
-      <div class="container-fluid px-5 py-0 my-0">
+    <footer class="border-top bg-light align-middle">
+      <div class="container-fluid py-0 my-0">
         <div class="row p-0 m-0">
           <ul class="col-6 nav justify-content-start">
-            <li class="nav-item"><a href="https://github.com/link23-world/language-toolkit/blob/main/LICENSE.md" class="nav-link px-2 py-0 text-muted">License</a></li>
-            <li class="nav-item"><a href="https://genomicsenglandltd.sharepoint.com/:b:/s/Link23-world/ETzoVuPpl_9PimLxf6IqOCQBlag2jM19KKqhOsgVswqH2g?e=JbhDfk" class="nav-link px-2 py-0 text-muted">Terms of Use</a></li>
+            <li class="nav-item"><a href="https://github.com/link23-world/language-toolkit/blob/main/LICENSE.md" class="nav-link px-1 py-0 text-muted">License</a></li>
+            <li class="nav-item"><a href="https://genomicsenglandltd.sharepoint.com/:b:/s/Link23-world/ETzoVuPpl_9PimLxf6IqOCQBlag2jM19KKqhOsgVswqH2g?e=JbhDfk" class="nav-link px-1 py-0 text-muted">Terms of Use</a></li>
           </ul>
 
           <ul class="col-6 nav justify-content-end">
-            <li class="nav-item"><a href="/language-toolkit/index.html" class="nav-link px-2 py-0 text-muted">Home</a></li>
-            <li class="nav-item"><a href="/language-toolkit/contact.html" class="nav-link px-2 py-0 text-muted">Contact</a></li>
-            <li class="nav-item"><a href="https://github.com/link23-world/language-toolkit" class="nav-link px-2 py-0 text-muted">Code</a></li>
+            <li class="nav-item"><a href="/language-toolkit/index.html" class="nav-link px-1 py-0 text-muted">Home</a></li>
+            <li class="nav-item"><a href="/language-toolkit/contact.html" class="nav-link px-1 py-0 text-muted">Contact</a></li>
+            <li class="nav-item"><a href="https://github.com/link23-world/language-toolkit" class="nav-link px-1 py-0 text-muted">Code</a></li>
           </ul>
         </div>
       </div>
