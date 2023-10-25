@@ -1,3 +1,7 @@
+## language-toolkit 0.1.7
+
+- Unify theme and remove unrequired files
+
 ## language-toolkit 0.1.6
 
 - Update theme and add contact page

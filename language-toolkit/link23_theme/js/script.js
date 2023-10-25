@@ -1,7 +1,7 @@
 // ---------
 // Variables
 // ---------
-const version = "0.1.6";
+const version = "0.1.7";
 const fullName = "Lost in Translation: Language Toolkit for Genomics Data Diversity";
 const shortName = "Lost in Translation Toolkit";
 const repo = "language-toolkit";
@@ -11,7 +11,10 @@ const zenodo = "10.5281/zenodo.10013320";
 // Populate fields
 // ----------------
 
-$(function() {
+$(function () {
+  const today = new Date();
+  const year = today.getFullYear();
+
   $(".fullname").text(fullName);
   $(".navbar-brand").text(shortName);
   $(".navbar-brand").attr("href", `/${repo}/index.html`);
@@ -23,5 +26,5 @@ $(function() {
   $(".license").attr("href", `https://github.com/link23-world/${repo}/blob/main/LICENSE.md`);
   $(".issue").attr("href", `https://github.com/link23-world/${repo}/issues`);
   $(".discussion").attr("href", `https://github.com/link23-world/${repo}/discussions`);
-  $(".citation").text(`The link23 Community. (2023). ${fullName} (Version ${version}) [Computer software]. https://doi.org/${zenodo}.`);
+  $(".citation").text(`The link23 Community. (${year}). ${fullName} (Version ${version}) [Computer software]. https://doi.org/${zenodo}.`);
 });
