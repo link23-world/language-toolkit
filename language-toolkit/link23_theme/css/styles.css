@@ -73,12 +73,12 @@ nav {
 }
 
 .dropdown-item.active {
-  background-color: var(--bs-secondary);
+  background-color: var(--bs-secondary) !important;
   color: white;
 }
 
 .dropdown-item:hover {
-  background-color: var(--bs-secondary);
+  background-color: var(--bs-secondary) !important;
   color: white;
 }
 
