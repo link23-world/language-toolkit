@@ -1,0 +1,93 @@
+* {
+  font-family: 'Avenir LT Pro 45 Book', sans-serif;
+}
+
+p {
+  font-size: 18px;
+}
+
+main li {
+  font-size: 18px;
+  padding-bottom: 5px;
+}
+
+.container-main {
+  padding-top:0px;
+}
+@media (max-width: 979px) {
+  .container-main {
+    padding-top: 50px;
+  }
+}
+
+header {
+  height: 5vh;
+  max-height: 5vh;
+}
+
+footer {
+  height: 3vh;
+  max-height: 3vh;
+  font-size: 14px;
+  margin: 0;
+  padding-top: 1px;
+}
+
+main {
+  height: 92vh;
+  max-height: 92vh;
+  overflow: auto;
+  z-index: 0;
+}
+
+html, body {
+  overflow: hidden;
+}
+
+.content {
+  height: 80vh;
+  max-height: 80vh;
+}
+
+.content-title {
+  margin: 2rem 0 1rem 0 !important;
+
+}
+
+.btn-version:after {
+  font-size: 0.9rem;
+  width: 0;
+  height: 0;
+}
+
+.btn-version {
+  text-decoration: none !important;
+}
+
+nav {
+  z-index: 10000;
+}
+
+.nav-link:hover {
+  color: black !important;
+}
+
+.dropdown-item.active {
+  background-color: var(--bs-secondary) !important;
+  color: white;
+}
+
+.dropdown-item:hover {
+  background-color: var(--bs-secondary) !important;
+  color: white;
+}
+
+.navbar {
+  border-bottom: 1px black solid;
+  box-shadow: 0 13px 10px -12px var(--bs-gray-700);
+}
+
+.blockquote {
+  border-left: 4px solid var(--bs-danger);
+  padding-left: 10px;
+}
