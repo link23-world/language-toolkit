@@ -1,7 +1,7 @@
 // ---------
 // Variables
 // ---------
-const version = "0.1.7";
+const version = "0.1.8";
 const fullName = "Lost in Translation: Language Toolkit for Genomics Data Diversity";
 const shortName = "Lost in Translation Toolkit";
 const repo = "language-toolkit";
