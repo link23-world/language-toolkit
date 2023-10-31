@@ -90,4 +90,9 @@ nav {
 .blockquote {
   border-left: 4px solid var(--bs-danger);
   padding-left: 10px;
+  margin-left: 20px;
+}
+
+.citation {
+  font-size: 18px;
 }
