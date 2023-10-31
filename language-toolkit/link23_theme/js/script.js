@@ -26,5 +26,5 @@ $(function () {
   $(".license").attr("href", `https://github.com/link23-world/${repo}/blob/main/LICENSE.md`);
   $(".issue").attr("href", `https://github.com/link23-world/${repo}/issues`);
   $(".discussion").attr("href", `https://github.com/link23-world/${repo}/discussions`);
-  $(".citation").html(`The link23 Community. (${year}). ${fullName} (Version ${version}) [Computer software]. <br> https://doi.org/${zenodo}.`);
+  $(".citation").text(`The link23 Community. (${year}). ${fullName} (Version ${version}) [Computer software]. https://doi.org/${zenodo}.`);
 });
