@@ -51,7 +51,7 @@ jobs:
         uses: actions/upload-pages-artifact@v2
         with:
           # Upload toolkit
-          path: 'language-toolkit/'
+          path: 'tool/'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
