@@ -47,7 +47,7 @@ x[1] <- "loadPhrases = function () {"
 x[length(x) + 1] <- "}"
 # fix unicode expressions and save
 write(gsub("\\\\", "\\", x, fixed = TRUE),
-      file.path("language-toolkit", "src", "loadphrases.js"))
+      file.path("tool", "src", "loadphrases.js"))
 
 # remove txt save js
 file.remove(tmp_file)
