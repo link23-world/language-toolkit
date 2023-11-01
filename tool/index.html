@@ -48,6 +48,7 @@
                   About
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="howtouse.html">How to use this tool</a>
                   <a class="dropdown-item" href="methodology.html">Methodology and Values FAQ</a>
                   <a class="dropdown-item" href="basics.html">Race, Ethnicity and Ancestry Basics</a>
                   <a class="dropdown-item" href="resources.html">Other Language Guidance</a>
@@ -72,44 +73,31 @@
     <main>
       <div class="container-fluid container-main content">
         <h1 class="content-title fullname"></h1>
-        <div class="row content">
-          <div class="col-12 col-sm-5 d-flex flex-column h-100 px-3">
-            <div class="row pb-1">
-              <div class="card px-4 py-2 shadow rounded overflow-none">
-                <div class="card-text m-0 p-0">
-                  <h2 class="text-center"> How to use this tool </h2>
-                  <p class="m-0 p-0">
-                    This toolkit is intended to help people use the optimal language to be sensitive when talking about genomics. It has been designed with a range of experts across genomics, clinical, community advocates, patient experience and academia to give you relevant context around using precise language so you can make informed decisions when choosing phrases.
-                    <br><br>
-                    You can learn more about the development of the tool and the traffic light system in the 'About' pages listed above.
-                  </p>
-                </div>
-              </div>
+        <p>See <a href="howtouse.html">"How to use this tool"</a> to learn about using this tool. If you want to get in touch you can find contact information <a href="contact.html">here</a>.</p>
+
+        <div class="row content px-3" style="overflow: hidden;">
+          <div class="col-6 h-100 card shadow bg-white rounded mb-2">
+            <div class="text-left py-2 my-2">
+            <span>Status</span>
+              <select class="selectpicker" data-width="fit" id="filter-cond">
+                <option value="in">is</option>
+                <option value="nin">is not</option>
+              </select>
+
+              <select class="selectpicker" multiple data-width="fit" id="filter-status" title="Select status">
+                <option value="green">Green</option>
+                <option value="amber">Amber</option>
+                <option value="red">Red</option>
+                <option value="grey">Grey</option>
+              </select>
+
+              <button type="button" class="btn btn-light" id="filter-clear">Clear</button>
             </div>
-
-            <div class="row h-100 card shadow bg-white rounded mb-2" style="overflow: hidden;">
-              <div class="text-left py-2 my-2">
-              <span>Status</span>
-                <select class="selectpicker" data-width="fit" id="filter-cond">
-                  <option value="in">is</option>
-                  <option value="nin">is not</option>
-                </select>
-
-                <select class="selectpicker" multiple data-width="fit" id="filter-status" title="Select status">
-                  <option value="green">Green</option>
-                  <option value="amber">Amber</option>
-                  <option value="red">Red</option>
-                  <option value="grey">Grey</option>
-                </select>
-
-                <button type="button" class="btn btn-light" id="filter-clear">Clear</button>
-              </div>
-              <div style="flex: 1; min-height: 0px; overflow: hidden;">
-                <div id="toolkitTable"></div>
-              </div>
+            <div style="flex: 1; min-height: 0px; overflow: hidden;">
+              <div id="toolkitTable"></div>
+            </div>
           </div>
-        </div>
-          <div class="col-12 col-sm-7 d-flex flex-column h-100 px-3">
+          <div class="col-6 d-flex flex-column h-100 px-3">
           <div class="row pb-1">
             <div class="card px-4 py-2 shadow rounded overflow-none phrase-card">
               <div class="card-text text-white m-0 p-0">
@@ -123,7 +111,7 @@
             </div>
           </div>
 
-          <div class="row h-100 d-flex flex-row card shadow bg-white rounded pb-0 mb-2" style="flex: 1; overflow-y: auto; overflow-x: hidden; min-height: 0px;">
+          <div class="row h-100 d-flex flex-row card shadow bg-white rounded" style="flex: 1; overflow-y: auto; overflow-x: hidden; min-height: 0px;">
               <div class="card-body text-left">
                 <div class="card-text">
                   <div id="phrase_definition">

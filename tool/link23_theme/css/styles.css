@@ -47,13 +47,12 @@ html, body {
 }
 
 .content {
-  height: 80vh;
-  max-height: 80vh;
+  height: 74vh;
+  max-height: 74vh;
 }
 
 .content-title {
-  margin: 2rem 0 1rem 0 !important;
-
+  margin: 2rem 0 0.5rem 0 !important;
 }
 
 .btn-version:after {
