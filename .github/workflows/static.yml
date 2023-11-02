@@ -38,7 +38,7 @@ jobs:
         run: install.packages(c("yaml", "jsonlite"), repos = "https://cloud.r-project.org")
         shell: Rscript {0}
       - name: Load phrases
-        run: Rscript refresh_phrases.R
+        run: Rscript tool/refresh_phrases.R
       - name: Save phrases
         uses: actions-js/push@master
         with:
